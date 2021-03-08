@@ -17,9 +17,9 @@ Video File: Yorushika - PV - Kutsu no Hanabi.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 74
-Active Line: 83
-Video Position: 8499
+Scroll Position: 8
+Active Line: 12
+Video Position: 2636
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,7 +40,7 @@ Dialogue: 0,0:01:11.81,0:01:16.65,Default,,0,0,0,,{\k100}{\kf81}yuu{\k24}gu{\k27
 Dialogue: 0,0:01:15.86,0:01:20.83,Default,,0,0,0,,{\k100}{\kf51}ko{\k27}no {\k20}ma{\k29}ma {\k36}ta{\kf13}i{\k16}ki {\k33}sa{\k26}e {\k26}to{\k27}bi{\kf30}da{\k19}shi{\k44}te
 Dialogue: 0,0:01:19.83,0:01:25.86,Default,,0,0,0,,{\k100}{\kf41}ma{\k36}shi{\k17}ta, {\k35}shi{\k42}da{\k9}i {\k22}ni {\kf40}chii{\k37}sa{\k26}ku {\kf49}na{\k48}tte’{\k26}ku {\kf50}no {\k25}wa
 Dialogue: 0,0:01:24.86,0:01:28.84,Default,,0,0,0,,{\k100}{\k25}ki{\k26}mi {\kf50}no{\k50} {\k25}i{\k28}ta {\k18}ma{\k28}chi {\kf48}da
-Dialogue: 0,0:01:27.84,0:01:32.84,Default,,0,0,0,,{\k100}{\kf46}ku{\k28}tsu {\k21}no {\k32}sa{\kf52}ki {\k22}ni {\k52}ha{\k26}na {\k14}ga {\kf34}sa{\kf27}i{\k46}ta
+Dialogue: 0,0:01:27.84,0:01:32.84,Default,,0,0,0,,{\k100}{\kf46}ku{\k28}tsu {\k21}no {\k32}sa{\kf52}ki {\k22}ni {\kf52}ha{\k26}na {\k14}ga {\kf34}sa{\kf27}i{\k46}ta
 Dialogue: 0,0:01:31.84,0:01:36.88,Default,,0,0,0,,{\k100}{\kf77}oo{\k26}ki {\k23}na {\kf52}hi {\k24}no {\kf51}ha{\k25}na {\k16}ga {\kf34}sa{\kf25}i{\k51}ta
 Dialogue: 0,0:01:35.88,0:01:42.87,Default,,0,0,0,,{\k100}{\kf51}ko{\k24}ko{\k24}ro{\k26}go{\kf49}to {\k24}no{\k28}ko{\k22}shi{\k26}te {\k26}yu{\kf61}kou,{\k35} {\k28}da {\kf38}na{\kf13}n{\k23}te {\k25}o{\kf26}mo{\kf50}u
 Dialogue: 0,0:01:42.24,0:01:47.13,Default,,0,0,0,,{\k100}{\kf37}so{\k25}n{\kf52}na{\k48} {\k23}na{\kf53}tsu {\k27}ga {\k25}mi{\k24}e{\kf75}ta
