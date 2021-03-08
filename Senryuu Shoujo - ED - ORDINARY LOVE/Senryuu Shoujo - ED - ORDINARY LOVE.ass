@@ -17,24 +17,24 @@ Video File: Senryuu Shoujo - ED - ORDINARY LOVE.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Video Position: 287
+Video Position: 392
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Expo Sans Pro,60,&H00DFC590,&H00FFFFFF,&H00A95143,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,30,30,30,1
-Style: SenryuED,Expo Sans Pro,40,&H00FFFFFF,&H000000FF,&H00DFC590,&HA0000000,-1,0,0,0,100,100,0,0,1,7,0,2,50,70,60,1
+Style: SenryuED,Expo Sans Pro,60,&H00FFFFFF,&H000000FF,&H00DFC590,&HA0000000,-1,0,0,0,100,100,0,0,1,7,0,2,50,70,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.40,0:00:12.53,Default,,0,0,0,,{\k100}{\k27}Wa{\k43}rac{\kf25}cha{\k34}u {\k20}ku{\k42}rai {\k38}ma{\k21}tta{\k27}ku {\k23}chi{\k31}ga{\k39}u {\kf54}wa{\k32}ta{\k20}shi{\k13}ta{\k24}chi
-Dialogue: 0,0:00:11.84,0:00:18.18,Default,,0,0,0,,{\k100}{\kf83}Show {\kf58}win{\k20}dow {\k50}wo {\k14}u{\k18}tsu{\k17}ru {\k41}su{\k17}ga{\k26}ta {\k23}sa{\kf167}e
+Dialogue: 0,0:00:06.40,0:00:12.53,Default,,0,0,0,,{\k100}{\k27}Wa{\k43}rac{\k25}cha{\k34}u {\k20}ku{\k21}ra{\k21}i {\k38}ma{\k21}tta{\k27}ku {\k23}chi{\k31}ga{\k39}u {\k54}wa{\k32}ta{\k20}shi{\k13}ta{\k24}chi
+Dialogue: 0,0:00:11.84,0:00:18.18,Default,,0,0,0,,{\k100}{\k83}Show {\k26}wi{\k32}n{\k20}dow {\k50}wo {\k14}u{\k18}tsu{\k17}ru {\k41}su{\k17}ga{\k26}ta {\k23}sa{\k167}e
 Dialogue: 0,0:00:17.18,0:00:23.78,Default,,0,0,0,,{\k100}{\k46}Ta{\k14}i{\k52}you {\k36}mi{\k34}ta{\k23}i {\k46}ni {\k35}a{\k35}na{\k31}ta {\k19}ga {\k18}ho{\k72}ho{\k35}e{\k16}mu {\k48}to
-Dialogue: 0,0:00:22.78,0:00:32.10,Default,,0,0,0,,{\k100}{\k38}O{\k22}da{\k33}ya{\k37}ka {\k48}na {\k38}ku{\k35}u{\k18}ki {\kf188}ga {\k38}na{\k36}ga{\k18}re{\kf283}ru
-Dialogue: 0,0:00:32.88,0:00:39.42,Default,,0,0,0,,{\k100}{\k44}A{\k32}ri{\k21}ki{\kf120}ta{\k19}ri {\kf104}na {\k16}ni{\k20}chi{\k16}jo{\kf35}u {\k16}de {\k39}sa{\k16}e {\k56}mo
-Dialogue: 0,0:00:38.42,0:00:45.06,Default,,0,0,0,,{\k100}{\k46}A{\k36}na{\k19}ta {\kf120}to {\k15}na{\kf124}ra {\k18}ka{\kf52}ga{\k15}ya{\kf54}ki{\k18}da{\k47}su
-Dialogue: 0,0:00:44.06,0:00:48.34,Default,,0,0,0,,{\k100}{\k42}Ta{\k35}to{\k33}e {\k20}na{\k15}ni {\k21}ga {\k13}o{\k36}ki{\k19}ta {\k28}to {\k22}shi{\k19}te {\kf25}mo
-Dialogue: 0,0:00:47.34,0:00:51.61,Default,,0,0,0,,{\k100}{\k24}Ta{\k18}ma {\k19}ni {\k18}ki{\k17}zu{\k17}tsu{\k17}ki {\k38}ki{\k15}zu{\k34}tsu{\k19}ke{\k20}te {\kf71}mo
-Dialogue: 0,0:00:50.61,0:00:59.21,Default,,0,0,0,,{\k100}{\k49}Na{\k38}ni{\k28}ge{\k39}na{\k29}i {\k24}hi {\k25}wo {\k65}shi{\kf31}n{\k18}ji{\k37}te{\k30}i{\kf347}te
+Dialogue: 0,0:00:22.78,0:00:32.10,Default,,0,0,0,,{\k100}{\k38}O{\k22}da{\k33}ya{\k37}ka {\k48}na {\k38}ku{\k35}u{\k18}ki {\k188}ga {\k38}na{\k36}ga{\k18}re{\k283}ru
+Dialogue: 0,0:00:32.88,0:00:39.42,Default,,0,0,0,,{\k100}{\k44}A{\k32}ri{\k21}ki{\k120}ta{\k19}ri {\k104}na {\k16}ni{\k20}chi{\k16}jo{\k35}u {\k16}de {\k39}sa{\k16}e {\k56}mo
+Dialogue: 0,0:00:38.42,0:00:45.06,Default,,0,0,0,,{\k100}{\k46}A{\k36}na{\k19}ta {\k120}to {\k15}na{\k124}ra {\k18}ka{\k52}ga{\k15}ya{\k54}ki{\k18}da{\k47}su
+Dialogue: 0,0:00:44.06,0:00:48.34,Default,,0,0,0,,{\k100}{\k42}Ta{\k35}to{\k33}e {\k20}na{\k15}ni {\k21}ga {\k13}o{\k36}ki{\k19}ta {\k28}to {\k22}shi{\k19}te {\k25}mo
+Dialogue: 0,0:00:47.34,0:00:51.61,Default,,0,0,0,,{\k100}{\k24}Ta{\k18}ma {\k19}ni {\k18}ki{\k17}zu{\k17}tsu{\k17}ki {\k38}ki{\k15}zu{\k34}tsu{\k19}ke{\k20}te {\k71}mo
+Dialogue: 0,0:00:50.61,0:00:59.21,Default,,0,0,0,,{\k100}{\k49}Na{\k38}ni{\k28}ge{\k39}na{\k29}i {\k24}hi {\k25}wo {\k65}shi{\k31}n{\k18}ji{\k37}te{\k30}i{\k347}te
 Dialogue: 0,0:00:07.40,0:00:12.61,SenryuED,,0,0,0,,{\fad(150,150)\be5\c&HDFC590&}We two are so different that it's funny
 Dialogue: 0,0:00:12.61,0:00:18.16,SenryuED,,0,0,0,,{\fad(150,150)\be5\c&HDFC590&}Even our reflections in the display window too
 Dialogue: 0,0:00:18.16,0:00:23.67,SenryuED,,0,0,0,,{\fad(150,150)\be5\c&HDFC590&}When you smile, it's like the sun
