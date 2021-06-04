@@ -17,9 +17,9 @@ Video File: Koe no Katachi - ED PV - Koi wo Shita no wa.mkv
 Video AR Mode: 4
 Video AR Value: 1.853282
 Video Zoom Percent: 0.500000
-Scroll Position: 33
-Active Line: 49
-Video Position: 4760
+Scroll Position: 7
+Active Line: 13
+Video Position: 3071
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,7 +28,7 @@ Style: Translation,Amaranth,80,&H00FFFFFF,&H00FFFFFF,&H009FA7C4,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.32,0:00:10.66,Default,,0,0,0,,{\k100}{\k234}a~
+Dialogue: 0,0:00:07.32,0:00:10.66,Default,,0,0,0,,{\k100}{\k234}aa
 Dialogue: 0,0:00:10.49,0:00:17.65,Default,,0,0,0,,{\k100}{\k22}ko{\k20}i {\k21}wo {\k17}shi{\k39}ta {\k29}no {\k468}wa
 Dialogue: 0,0:00:35.06,0:00:38.67,Default,,0,0,0,,{\k100}{\k45}nee {\k26}ma{\k41}e {\k31}mu{\k38}i{\k80}te
 Dialogue: 0,0:00:37.87,0:00:42.35,Default,,0,0,0,,{\k100}{\k18}a{\k28}ta{\k32}shi {\k51}wa {\k18}ko{\k16}ko {\k41}ni {\k20}i{\k30}ru {\k16}de{\k78}sho?
@@ -41,7 +41,7 @@ Dialogue: 0,0:01:30.39,0:01:44.57,Default,,0,0,0,,{\k100}{\k18}i{\k34}ma {\k128}
 Dialogue: 0,0:01:43.92,0:01:46.42,Default,,0,0,0,,{\k100}{\k79}dar{\k71}ling
 Dialogue: 0,0:01:45.42,0:01:53.33,Default,,0,0,0,,{\k100}{\k104}o{\k30}chi{\k121}ru {\k26}a{\k121}me {\k21}ni {\k120}u{\k26}tsu{\k122}ru
 Dialogue: 0,0:01:53.68,0:02:08.87,Default,,0,0,0,,{\k100}{\k24}fu{\k49}ta{\k109}ri {\k70}se{\k52}ka{\k41}i {\k106}wa {\k27}da{\k32}re{\k256}mo {\k67}shi{\k60}ra{\k76}na{\k450}i
-Dialogue: 0,0:02:08.11,0:02:11.57,Default,,0,0,0,,{\k100}{\k246}a~
+Dialogue: 0,0:02:08.11,0:02:11.57,Default,,0,0,0,,{\k100}{\k246}aa
 Dialogue: 0,0:02:10.95,0:02:15.01,Default,,0,0,0,,{\k100}{\k20}ko{\k21}i {\k19}wo {\k18}shi{\k36}ta {\k26}no {\k166}wa
 Dialogue: 0,0:02:14.24,0:02:21.04,Default,,0,0,0,,{\k100}{\k27}i{\k14}tsu {\k38}ka{\k28}ra {\k138}ka {\k18}na{\k18}i{\k18}ta {\k19}no {\k17}wa {\k38}na{\k21}n{\k35}do{\k19}me {\k132}ka
 Dialogue: 0,0:02:20.04,0:02:27.00,Default,,0,0,0,,{\k100}{\k26}ka{\k16}zo{\k41}e{\k22}ru {\k156}to {\k22}yo{\k20}ru {\k20}ga {\k14}a{\k38}ke{\k34}ru {\k187}wa
