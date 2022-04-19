@@ -12,7 +12,7 @@ Original Timing: Kmeuh
 Script Updated By: NextFire
 
 [Aegisub Project Garbage]
-Last Style Storage: CR
+Last Style Storage: Default
 Audio File: Kaguya-sama wa Kokurasetai Ultra Romantic - OP - GIRI GIRI.mp4
 Video File: Kaguya-sama wa Kokurasetai Ultra Romantic - OP - GIRI GIRI.mp4
 Video AR Mode: 4
@@ -25,7 +25,7 @@ Video Position: 1996
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Amaranth,80,&H004433EA,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,30,30,30,1
-Style: Translation,Amaranth,80,&H00FFFFFF,&H00FFFFFF,&H004433EA,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,30,30,90,1
+Style: Translation,Amaranth,75,&H00FFFFFF,&H00FFFFFF,&H004433EA,&H00000000,0,0,0,0,100,100,0,0,1,2,2,3,700,25,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text

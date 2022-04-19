@@ -13,12 +13,14 @@ Script Updated By: NextFire
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Paripi Koumei - OP - Chiki Chiki Ban Ban.mkv
-Video File: Paripi Koumei - OP - Chiki Chiki Ban Ban.mkv
+Audio File: Paripi Koumei - OP - Chiki Chiki Ban Ban.mp4
+Video File: Paripi Koumei - OP - Chiki Chiki Ban Ban.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 206
+Scroll Position: 17
+Active Line: 29
+Video Position: 1824
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,11 +29,11 @@ Style: OP_Romaji_Pink,Amaranth,80,&H00E900FF,&H00FFFFFF,&H00000000,&H00000000,0,
 Style: OP_Romaji_Cyan,Amaranth,80,&H00FFE700,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,30,30,30,1
 Style: OP_Romaji_Yellow,Amaranth,80,&H0000F6FF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,30,30,30,1
 Style: OP_Romaji_Chorus,Amaranth,80,&H002E48E3,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,30,30,30,1
-Style: OP_English_Main,Amaranth,80,&H00FFFFFF,&H000000FF,&H00000000,&H00202020,0,0,0,0,100,100,0,0,1,2,2,2,100,100,64,1
+Style: OP_English_Main,Amaranth,70,&H00FFFFFF,&H000000FF,&H00000000,&H00202020,0,0,0,0,100,100,0,0,1,2,2,2,100,100,64,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.57,0:00:10.33,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k38}Chan {\k0}× {\k37}Chan
+Dialogue: 0,0:00:08.57,0:00:10.33,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k38}Chan {\k37}× Chan
 Dialogue: 0,0:00:09.34,0:00:12.22,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k20}Ai!! {\k26}Chi{\k22}ki {\k26}chi{\k23}ki {\k24}ban {\k47}ban
 Dialogue: 0,0:00:11.22,0:00:14.08,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k20}Ai?! {\k26}Chi{\k22}ki {\k25}chi{\k19}ki {\k37}chan {\k37}chan
 Dialogue: 0,0:00:13.08,0:00:15.97,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k21}Aa! {\k26}Chi{\k22}ki {\k25}chi{\k24}ki {\k34}ban {\k37}ban
@@ -49,18 +51,18 @@ Dialogue: 0,0:00:39.79,0:00:42.91,OP_Romaji_Pink,,0,0,0,,{\k100}{\k23}Ho{\k23}ra
 Dialogue: 0,0:00:42.38,0:00:46.20,OP_Romaji_Cyan,,0,0,0,,{\k100}{\k24}Mi{\k22}nna {\k13}ki{\k13}tai{\k46}shi{\k23}te{\k0}, {\k24}par{\k23}ty {\k46}peo{\k48}ple
 Dialogue: 0,0:00:45.43,0:00:50.64,OP_Romaji_Yellow,,0,0,0,,{\k100}{\k25}Ko{\k45}nya {\k23}Fu{\k24}ji{\k24}ya{\k47}ma {\k13}no{\k9}bo{\k25}ran{\k22}ya {\k24}wa{\k23}ka{\k25}ra{\k92}nai
 Dialogue: 0,0:00:49.86,0:00:53.75,OP_Romaji_Green,,0,0,0,,{\k100}{\k15}Ke{\k35}ssen {\k23}wa {\k47}shuu{\k20}ma{\k27}tsu {\k14}no {\k21}shu{\k20}ku{\k67}mei
-Dialogue: 0,0:00:53.57,0:00:55.33,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k38}Chan {\k0}× {\k37}Chan
+Dialogue: 0,0:00:53.57,0:00:55.33,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k38}Chan {\k37}× Chan
 Dialogue: 0,0:00:54.33,0:00:57.22,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k20}Ai!! {\k27}Chi{\k21}ki {\k25}chi{\k24}ki {\k36}ban {\k36}ban
 Dialogue: 0,0:00:56.68,0:01:00.25,OP_Romaji_Green,,0,0,0,,{\k100}{\k22}Na{\k24}ni{\k19}mo {\k29}mo{\k19}ttai{\k4}bu{\k22}ra{\k22}zu {\k26}ta{\k12}no{\k25}shi{\k33}me
 Dialogue: 0,0:00:59.25,0:01:02.06,OP_Romaji_Pink,,0,0,0,,{\k100}{\k24}Fe{\k20}ver {\k28}to{\k109}night
-Dialogue: 0,0:01:01.07,0:01:02.83,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k38}Chan {\k0}× {\k37}Chan
+Dialogue: 0,0:01:01.07,0:01:02.83,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k38}Chan {\k37}× Chan
 Dialogue: 0,0:01:01.84,0:01:04.71,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k21}Ai?! {\k26}Chi{\k21}ki {\k24}chi{\k25}ki {\k34}ban {\k36}ban
 Dialogue: 0,0:01:04.18,0:01:07.75,OP_Romaji_Pink,,0,0,0,,{\k100}{\k47}Nan{\k23}do {\k15}mu{\k32}sha{\k15}ku{\k24}sha {\k32}shi{\k46}ta{\k23}tte{\k0},
 Dialogue: 0,0:01:06.75,0:01:09.58,OP_Romaji_Cyan,,0,0,0,,{\k100}{\k24}Par{\k20}ty {\k25}to{\k114}night
-Dialogue: 0,0:01:08.57,0:01:10.33,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k38}Chan {\k0}× {\k37}Chan
+Dialogue: 0,0:01:08.57,0:01:10.33,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k38}Chan {\k37}× Chan
 Dialogue: 0,0:01:09.33,0:01:12.21,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k23}Aa! {\k25}Chi{\k20}ki {\k27}chi{\k23}ki {\k25}ban {\k45}ban
 Dialogue: 0,0:01:11.68,0:01:16.90,OP_Romaji_Cyan,,0,0,0,,{\k100}{\k22}O{\k24}ro{\k16}ka{\k32}mo{\k23}no {\k25}ho{\k22}do {\k24}high {\k22}to {\k19}ka{\k28}su {\k23}kan{\k16}zen {\k33}sha{\k93}kai
-Dialogue: 0,0:01:16.07,0:01:17.83,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k38}Chan {\k0}× {\k37}Chan
+Dialogue: 0,0:01:16.07,0:01:17.83,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k38}Chan {\k37}× Chan
 Dialogue: 0,0:01:16.83,0:01:19.71,OP_Romaji_Chorus,,0,0,0,,{\k100}{\k22}Ai!! {\k26}Chi{\k20}ki {\k27}chi{\k23}ki {\k35}ban {\k35}ban
 Dialogue: 0,0:01:19.17,0:01:22.72,OP_Romaji_Cyan,,0,0,0,,{\k100}{\k47}Mi{\k12}nna {\k28}su{\k19}per{\k36}star {\k19}no {\k27}ta{\k17}ma{\k20}go {\k30}sa{\k0},
 Dialogue: 0,0:01:21.72,0:01:24.62,OP_Romaji_Yellow,,0,0,0,,{\k100}{\k26}Di{\k19}va {\k31}to{\k114}night
