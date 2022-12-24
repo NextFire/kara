@@ -11,18 +11,18 @@ PlayResY: 1080
 Original Timing: NextFire
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: btr
 Audio File: Bocchi the Rock! - ED3 - Nani ga Warui.mp4
 Video File: Bocchi the Rock! - ED3 - Nani ga Warui.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 1.000000
 Active Line: 5
-Video Position: 340
+Video Position: 1592
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,WIX-CookHand Std R,80,&H00939496,&H00FFFFFF,&H00000000,&H00AAD8B7,-1,0,0,0,100,100,0,0,1,0,4,8,30,30,20,1
+Style: Default,WIX-CookHand Std R,80,&H00939496,&H00FFFFFF,&H00939496,&H00AAD8B7,0,0,0,0,100,100,0,0,1,1,4,8,30,30,20,1
 Style: Translation,WIX-CookHand Std R,60,&H00939496,&H00FFFFFF,&H00000000,&H00AAD8B7,-1,-1,0,0,100,100,0,0,1,0,4,2,30,30,510,1
 Style: Translation2,WIX-CookHand Std R,60,&H00939496,&H00FFFFFF,&H00000000,&H00AAD8B7,-1,-1,0,0,100,100,0,0,1,0,4,2,30,30,75,1
 

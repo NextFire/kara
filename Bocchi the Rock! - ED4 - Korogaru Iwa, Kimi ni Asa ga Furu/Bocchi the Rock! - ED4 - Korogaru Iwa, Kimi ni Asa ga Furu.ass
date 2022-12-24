@@ -11,7 +11,7 @@ PlayResY: 1080
 Original Timing: NextFire
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: btr
 Audio File: Bocchi the Rock! - ED4 - Korogaru Iwa, Kimi ni Asa ga Furu.mp4
 Video File: Bocchi the Rock! - ED4 - Korogaru Iwa, Kimi ni Asa ga Furu.mp4
 Video AR Mode: 4
@@ -23,7 +23,7 @@ Video Position: 1560
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,WIX-CookHand Std R,80,&H00A68BB3,&H00FFFFFF,&H00000000,&H0063524B,-1,0,0,0,100,100,0,0,1,0,4,8,30,30,30,1
+Style: Default,WIX-CookHand Std R,80,&H00A68BB3,&H00FFFFFF,&H00A68BB3,&H0063524B,0,0,0,0,100,100,0,0,1,1,4,8,30,30,30,1
 Style: CR_Default,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,0
 Style: CR_DefaultItalics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,0
 Style: Translation,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00A68BB3,&H0063524B,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,0

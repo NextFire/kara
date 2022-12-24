@@ -5,27 +5,28 @@ Title: Bocchi the Rock! - INS - Guitar to Kodoku to Aoi Wakusei
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
 Original Timing: Ourson (Mugen)
 Script Updated By: NextFire
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: btr
 Audio File: Bocchi the Rock! - INS - Guitar to Kodoku to Aoi Wakusei.mp4
 Video File: Bocchi the Rock! - INS - Guitar to Kodoku to Aoi Wakusei.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Active Line: 6
-Video Position: 786
+Video Zoom Percent: 1.000000
+Scroll Position: 19
+Active Line: 30
+Video Position: 1320
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Amaranth,53,&H008781D3,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,8,20,20,20,1
-Style: CRDefaultItalics,Trebuchet MS,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,4,2,2,20,20,36,0
-Style: CR_DefaultItalics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,0
+Style: Default,WIX-CookHand Std R,53,&H00566ED9,&H00FFFFFF,&H00566ED9,&H00000000,0,0,0,0,100,100,0,0,1,0.666667,2.66667,8,20,20,20,1
+Style: CR_DefaultItalics,Trebuchet MS,48,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,4,2,2,20,20,36,0
+Style: CR_Default,Trebuchet MS,48,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,20,20,36,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -48,19 +49,19 @@ Dialogue: 0,0:00:58.15,0:01:04.06,Default,,0,0,0,fx,{\k90\fad(300,200)}{\k13}na{
 Dialogue: 0,0:01:03.26,0:01:09.10,Default,,0,0,0,fx,{\k90\fad(300,200)}{\k31}a{\k24}ri {\k22}no {\k16}ma{\k14}ma {\k26}na{\k14}n{\k38}te {\k34}da{\k28}re {\k34}ni {\k18}mi{\k62}se{\k31}ru{\k44}n {\k38}da
 Dialogue: 0,0:01:08.24,0:01:13.72,Default,,0,0,0,fx,{\k90\fad(300,200)}{\k23}ba{\k31}ka {\k38}na {\k20}wa{\k22}ta{\k21}shi {\k20}wa {\k43}u{\k20}ta{\k42}u {\k17}da{\k141}ke
 Dialogue: 0,0:01:13.21,0:01:17.43,Default,,0,0,0,fx,{\k90\fad(300,200)}{\k33}bu{\k30}chi{\k30}ma{\k17}ke{\k37}cha{\k10}o{\k23}u {\k36}ka {\k31}ho{\k33}shi {\k32}ni
-Dialogue: 0,0:00:13.84,0:00:16.76,CRDefaultItalics,Kita,0,0,0,,A sudden evening shower falls
-Dialogue: 0,0:00:16.76,0:00:19.72,CRDefaultItalics,Kita,0,0,0,,And yeah, it figures, \NI don't have an umbrella...
-Dialogue: 0,0:00:19.72,0:00:23.77,CRDefaultItalics,Kita,0,0,0,,Who cares how the sky's feeling, anyway?
-Dialogue: 0,0:00:23.77,0:00:26.85,CRDefaultItalics,Kita,0,0,0,,When it's time for the seasons to change
-Dialogue: 0,0:00:26.85,0:00:29.65,CRDefaultItalics,Kita,0,0,0,,What are you supposed to wear? Who knows?
-Dialogue: 0,0:00:29.65,0:00:33.61,CRDefaultItalics,Kita,0,0,0,,Spring and fall... yeah, where'd they go?
-Dialogue: 0,0:00:33.61,0:00:38.57,CRDefaultItalics,Kita,0,0,0,,The pressure of information, suffocating
-Dialogue: 0,0:00:38.57,0:00:41.20,CRDefaultItalics,Kita,0,0,0,,A spiral of vertigo
-Dialogue: 0,0:00:41.20,0:00:43.58,CRDefaultItalics,Kita,0,0,0,,Don't know where I am
-Dialogue: 0,0:00:43.58,0:00:49.71,CRDefaultItalics,Kita,0,0,0,,I can hear myself breathing \Nso loud, so loud...
-Dialogue: 0,0:00:49.71,0:00:55.05,CRDefaultItalics,Kita,0,0,0,,But why? I can't hear the \Nsounds of the world...
-Dialogue: 0,0:00:55.05,0:00:59.18,CRDefaultItalics,Kita,0,0,0,,It's not enough, not enough, \NNo one knows I'm here
-Dialogue: 0,0:00:59.18,0:01:04.35,CRDefaultItalics,Kita,0,0,0,,I screamed when I couldn't \Nmake a scribble of a sound
-Dialogue: 0,0:01:04.35,0:01:09.23,CRDefaultItalics,Kita,0,0,0,,Who am I supposed to show "just who I am" to?
-Dialogue: 0,0:01:09.23,0:01:14.07,CRDefaultItalics,Kita,0,0,0,,So I'm singing just like the fool I am
-Dialogue: 0,0:01:14.07,0:01:17.36,CRDefaultItalics,Kita,0,0,0,,Let's lay it all out to the stars!
+Dialogue: 0,0:00:13.84,0:00:16.76,CR_DefaultItalics,Kita,0,0,0,,A sudden evening shower falls
+Dialogue: 0,0:00:16.76,0:00:19.72,CR_DefaultItalics,Kita,0,0,0,,And yeah, it figures, \NI don't have an umbrella...
+Dialogue: 0,0:00:19.72,0:00:23.77,CR_DefaultItalics,Kita,0,0,0,,Who cares how the sky's feeling, anyway?
+Dialogue: 0,0:00:23.77,0:00:26.85,CR_DefaultItalics,Kita,0,0,0,,When it's time for the seasons to change
+Dialogue: 0,0:00:26.85,0:00:29.65,CR_DefaultItalics,Kita,0,0,0,,What are you supposed to wear? Who knows?
+Dialogue: 0,0:00:29.65,0:00:33.61,CR_DefaultItalics,Kita,0,0,0,,Spring and fall... yeah, where'd they go?
+Dialogue: 0,0:00:33.61,0:00:38.57,CR_DefaultItalics,Kita,0,0,0,,The pressure of information, suffocating
+Dialogue: 0,0:00:38.57,0:00:41.20,CR_DefaultItalics,Kita,0,0,0,,A spiral of vertigo
+Dialogue: 0,0:00:41.20,0:00:43.58,CR_DefaultItalics,Kita,0,0,0,,Don't know where I am
+Dialogue: 0,0:00:43.58,0:00:49.71,CR_DefaultItalics,Kita,0,0,0,,I can hear myself breathing \Nso loud, so loud...
+Dialogue: 0,0:00:49.71,0:00:55.05,CR_DefaultItalics,Kita,0,0,0,,But why? I can't hear the \Nsounds of the world...
+Dialogue: 0,0:00:55.05,0:00:59.18,CR_DefaultItalics,Kita,0,0,0,,It's not enough, not enough, \NNo one knows I'm here
+Dialogue: 0,0:00:59.18,0:01:04.35,CR_DefaultItalics,Kita,0,0,0,,I screamed when I couldn't \Nmake a scribble of a sound
+Dialogue: 0,0:01:04.35,0:01:09.23,CR_DefaultItalics,Kita,0,0,0,,Who am I supposed to show "just who I am" to?
+Dialogue: 0,0:01:09.23,0:01:14.07,CR_DefaultItalics,Kita,0,0,0,,So I'm singing just like the fool I am
+Dialogue: 0,0:01:14.07,0:01:17.36,CR_DefaultItalics,Kita,0,0,0,,Let's lay it all out to the stars!

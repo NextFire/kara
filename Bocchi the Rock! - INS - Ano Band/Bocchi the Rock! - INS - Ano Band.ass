@@ -12,21 +12,22 @@ Original Timing: Ourson (Mugen)
 Script Updated By: NextFire
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
+Last Style Storage: btr
 Audio File: Bocchi the Rock! - INS - Ano Band.mp4
 Video File: Bocchi the Rock! - INS - Ano Band.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 7
-Active Line: 18
-Video Position: 151
+Scroll Position: 11
+Active Line: 19
+Video Position: 1067
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Amaranth,80,&H008274D2,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,30,30,30,1
+Style: Default,WIX-CookHand Std R,80,&H005864D0,&H00FFFFFF,&H005864D0,&H00000000,0,0,0,0,100,100,0,0,1,1,4,8,30,30,30,1
 Style: CR_Default,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,0
 Style: CR_DefaultItalics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,0
+Style: Translation,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H005864D0,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -49,17 +50,17 @@ Dialogue: 0,0:01:31.40,0:01:34.41,Default,,0,0,0,fx,{\k90\fad(300,200)}{\k25}wa{
 Dialogue: 0,0:01:33.57,0:01:35.57,Default,,0,0,0,fx,{\k90\fad(300,200)}{\k17}o{\k18}to {\k20}i{\k9}ga{\k24}i
 Dialogue: 0,0:00:01.06,0:00:01.94,CR_DefaultItalics,Hitori,0,0,0,,But...
 Dialogue: 0,0:00:06.28,0:00:07.90,CR_DefaultItalics,Hitori,0,0,0,,I refuse to let it stay this way!
-Dialogue: 0,0:00:44.48,0:00:49.36,CR_DefaultItalics,Hitori,0,0,0,,That band's songs sound to me
-Dialogue: 0,0:00:49.36,0:00:54.95,CR_DefaultItalics,Hitori,0,0,0,,like shrill laughter all around
-Dialogue: 0,0:00:54.95,0:00:59.54,CR_DefaultItalics,Hitori,0,0,0,,That band's songs are to me
-Dialogue: 0,0:00:59.54,0:01:05.38,CR_DefaultItalics,Hitori,0,0,0,,like the piercing clang of a railway crossing
-Dialogue: 0,0:01:06.38,0:01:11.01,CR_DefaultItalics,Hitori,0,0,0,,Don't push me forward
-Dialogue: 0,0:01:11.43,0:01:14.43,CR_DefaultItalics,Hitori,0,0,0,,There's a train coming
-Dialogue: 0,0:01:14.43,0:01:16.97,CR_DefaultItalics,Hitori,0,0,0,,I close my eyes
-Dialogue: 0,0:01:16.97,0:01:19.27,CR_DefaultItalics,Hitori,0,0,0,,There's a halo in the darkness
-Dialogue: 0,0:01:19.27,0:01:22.02,CR_DefaultItalics,Hitori,0,0,0,,I cover my ears
-Dialogue: 0,0:01:22.02,0:01:24.40,CR_DefaultItalics,Hitori,0,0,0,,There's a steady beating pulse within
-Dialogue: 0,0:01:24.40,0:01:27.23,CR_DefaultItalics,Hitori,0,0,0,,Deep in my chest
-Dialogue: 0,0:01:27.23,0:01:29.32,CR_DefaultItalics,Hitori,0,0,0,,My heart makes my body sway
-Dialogue: 0,0:01:29.69,0:01:32.24,CR_DefaultItalics,Hitori,0,0,0,,I don't want to hear anything else
-Dialogue: 0,0:01:32.24,0:01:36.12,CR_DefaultItalics,Hitori,0,0,0,,Nothing but the sounds I'm making
+Dialogue: 0,0:00:44.48,0:00:49.36,Translation,Kita,0,0,0,,That band's songs sound to me
+Dialogue: 0,0:00:49.36,0:00:54.95,Translation,Kita,0,0,0,,like shrill laughter all around
+Dialogue: 0,0:00:54.95,0:00:59.54,Translation,Kita,0,0,0,,That band's songs are to me
+Dialogue: 0,0:00:59.54,0:01:05.38,Translation,Kita,0,0,0,,like the piercing clang of a railway crossing
+Dialogue: 0,0:01:06.38,0:01:11.01,Translation,Kita,0,0,0,,Don't push me forward
+Dialogue: 0,0:01:11.43,0:01:14.43,Translation,Kita,0,0,0,,There's a train coming
+Dialogue: 0,0:01:14.43,0:01:16.97,Translation,Kita,0,0,0,,I close my eyes
+Dialogue: 0,0:01:16.97,0:01:19.27,Translation,Kita,0,0,0,,There's a halo in the darkness
+Dialogue: 0,0:01:19.27,0:01:22.02,Translation,Kita,0,0,0,,I cover my ears
+Dialogue: 0,0:01:22.02,0:01:24.40,Translation,Kita,0,0,0,,There's a steady beating pulse within
+Dialogue: 0,0:01:24.40,0:01:27.23,Translation,Kita,0,0,0,,Deep in my chest
+Dialogue: 0,0:01:27.23,0:01:29.32,Translation,Kita,0,0,0,,My heart makes my body sway
+Dialogue: 0,0:01:29.69,0:01:32.24,Translation,Kita,0,0,0,,I don't want to hear anything else
+Dialogue: 0,0:01:32.24,0:01:36.12,Translation,Kita,0,0,0,,Nothing but the sounds I'm making
