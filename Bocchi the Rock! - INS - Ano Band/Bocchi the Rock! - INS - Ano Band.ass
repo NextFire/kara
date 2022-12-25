@@ -23,10 +23,10 @@ Video Position: 2242
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,WIX-CookHand Std R,80,&H005864D0,&H00FFFFFF,&H005864D0,&H00000000,0,0,0,0,100,100,0,0,1,1,4,8,30,30,30,1
+Style: Default,WIX-CookHand Std R,80,&H005864D0,&H00FFFFFF,&H005864D0,&H00525052,0,0,0,0,100,100,0,0,1,1,4,8,30,30,30,1
 Style: CR_Default,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,0
 Style: CR_DefaultItalics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,0
-Style: Translation,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H005864D0,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,0
+Style: Translation,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H005864D0,&H005864D0,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
