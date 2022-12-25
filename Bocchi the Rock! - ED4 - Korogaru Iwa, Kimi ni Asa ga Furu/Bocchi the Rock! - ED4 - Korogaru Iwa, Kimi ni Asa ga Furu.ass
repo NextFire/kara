@@ -39,12 +39,12 @@ Dialogue: 0,0:00:10.78,0:00:14.16,CR_Default,Kita,0,0,0,,Let me know if there's 
 Dialogue: 0,0:00:14.16,0:00:14.79,CR_Default,Ryo,0,0,0,,{\i1}Anything{\i0}?
 Dialogue: 0,0:00:15.16,0:00:19.37,CR_Default,Nijika,0,0,0,,Kita-chan! Don't say that to Ryo \Nunless you're ready to follow through!
 Dialogue: 0,0:00:19.37,0:00:22.04,CR_Default,Ryo,0,0,0,,You can start by treating me to gyudon.
-Dialogue: 1,0:00:23.79,0:00:27.67,CR_Default,Futari,0,0,0,,{\pos(960,946)}Sis! Hurry up or you'll be late!
-Dialogue: 1,0:00:32.76,0:00:34.35,CR_Default,Hitori,0,0,0,,{\pos(960,946)}A-Awesome...
-Dialogue: 1,0:00:38.18,0:00:41.65,CR_Default,Hitori,0,0,0,,{\pos(960,946)}I'm s-sorry! I haven't f-forgotten you!
-Dialogue: 1,0:00:41.65,0:00:43.52,CR_Default,Hitori,0,0,0,,{\pos(960,946)}Forgive me!
-Dialogue: 1,0:00:43.52,0:00:45.23,CR_Default,Michiyo,0,0,0,,{\pos(960,946)}She's at it again.
-Dialogue: 1,0:00:53.78,0:00:55.12,CR_Default,Hitori,0,0,0,,{\pos(960,946)}Be back later.
+Dialogue: 1,0:00:23.79,0:00:27.67,CR_Default,Futari,0,0,0,,{\pos(960,942)}Sis! Hurry up or you'll be late!
+Dialogue: 1,0:00:32.76,0:00:34.35,CR_Default,Hitori,0,0,0,,{\pos(960,942)}A-Awesome...
+Dialogue: 1,0:00:38.18,0:00:41.65,CR_Default,Hitori,0,0,0,,{\pos(960,942)}I'm s-sorry! I haven't f-forgotten you!
+Dialogue: 1,0:00:41.65,0:00:43.52,CR_Default,Hitori,0,0,0,,{\pos(960,942)}Forgive me!
+Dialogue: 1,0:00:43.52,0:00:45.23,CR_Default,Michiyo,0,0,0,,{\pos(960,942)}She's at it again.
+Dialogue: 1,0:00:53.78,0:00:55.12,CR_Default,Hitori,0,0,0,,{\pos(960,942)}Be back later.
 Dialogue: 0,0:00:22.29,0:00:29.38,Default,,0,0,0,,{\k100}{\k45}De{\k40}ki{\k43}re{\k74}ba {\k31}se{\k51}kai {\k27}wo {\k35}bo{\k24}ku {\k55}wa {\k24}nu{\k23}ri{\k37}ka{\k20}e{\k80}tai
 Dialogue: 0,0:00:28.72,0:00:35.67,Default,,0,0,0,,{\k100}{\k41}Sen{\k40}sou {\k31}wo {\k15}na{\k61}ku{\k24}su {\k21}you {\k39}na {\k41}dai{\k35}so{\k27}re{\k77}ta {\k23}ko{\k34}to {\k22}ja{\k64}nai
 Dialogue: 0,0:00:35.19,0:00:41.50,Default,,0,0,0,,{\k100}{\k47}Da{\k41}ke{\k48}do {\k63}cho{\k41}t{\k43}to {\k25}so{\k65}re {\k21}mo {\k44}a{\k21}ru {\k18}yo {\k54}na
