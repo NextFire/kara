@@ -18,12 +18,13 @@ Video File: Bocchi the Rock! - ED1 - Distortion!!.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 205
+Active Line: 4
+Video Position: 655
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,WIX-CookHand Std R,80,&H006D5E92,&H00FFFFFF,&H006D5E92,&H00525052,0,0,0,0,100,100,0,0,1,1,4,8,30,30,45,1
-Style: CR_DefaultItalics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H006D5E92,&H006D5E92,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,0
+Style: CR_DefaultItalics,WIX-CookHand Std R,72,&H00FFFFFF,&H000000FF,&H006D5E92,&H00525052,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
