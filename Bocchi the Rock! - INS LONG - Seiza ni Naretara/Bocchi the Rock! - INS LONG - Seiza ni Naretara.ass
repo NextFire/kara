@@ -17,9 +17,9 @@ Video File: Bocchi the Rock! - INS LONG - Seiza ni Naretara.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 58
-Active Line: 64
-Video Position: 3974
+Scroll Position: 51
+Active Line: 57
+Video Position: 2875
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -85,8 +85,9 @@ Dialogue: 0,0:01:28.31,0:01:32.81,Translation,,0,0,0,,The kind that people point
 Dialogue: 0,0:01:32.81,0:01:37.19,Translation,,0,0,0,,Don't let these lines \Nthat link us come undone
 Dialogue: 0,0:01:37.19,0:01:42.15,Translation,,0,0,0,,No matter how brightly I shine
 Dialogue: 0,0:01:48.52,0:01:51.48,Translation,,0,0,0,,The time's almost eight
-Dialogue: 0,0:01:52.44,0:01:55.58,Translation,,0,0,0,,The night sky is full of stars
-Dialogue: 0,0:01:55.86,0:02:05.46,Translation,,0,0,0,,Billions of light years away may be no more
+Dialogue: 0,0:01:52.44,0:01:55.77,Translation,,0,0,0,,The night sky is full of stars
+Dialogue: 0,0:01:55.77,0:01:59.78,Translation,,0,0,0,,Billions of light years away
+Dialogue: 0,0:01:59.78,0:02:05.46,Translation,,0,0,0,,That may be no more
 Dialogue: 0,0:02:05.77,0:02:13.42,Translation,,0,0,0,,The moon is so beautiful I could cry
 Dialogue: 0,0:02:13.62,0:02:20.74,Translation,,0,0,0,,Because one day we'll have to say goodbye
 Dialogue: 0,0:02:21.18,0:02:25.04,Translation,,0,0,0,,If only I could become \Na constellation with you...
@@ -95,7 +96,7 @@ Dialogue: 0,0:02:29.99,0:02:36.81,Translation,,0,0,0,,The fading afterimage \Nis
 Dialogue: 0,0:02:36.81,0:02:40.44,Translation,,0,0,0,,If only I could become \Na constellation with you...
 Dialogue: 0,0:02:40.69,0:02:45.19,Translation,,0,0,0,,If only I could reach \Nsomeone with a longing wish
 Dialogue: 0,0:02:45.58,0:02:49.53,Translation,,0,0,0,,I wonder, even though I'm like this
-Dialogue: 0,0:02:49.53,0:02:55.35,Translation,,0,0,0,,If I can change, \Nlike the depth of the night
+Dialogue: 0,0:02:49.53,0:02:55.35,Translation,,0,0,0,,If I can change \Nin the depth of the night
 Dialogue: 0,0:03:08.27,0:03:13.77,Translation,,0,0,0,,We met each other, so far away
 Dialogue: 0,0:03:16.19,0:03:21.69,Translation,,0,0,0,,And because it's our karma, \Nwe'll meet again and again
 Dialogue: 0,0:03:23.40,0:03:26.77,Translation,,0,0,0,,In the gaps between the clouds
