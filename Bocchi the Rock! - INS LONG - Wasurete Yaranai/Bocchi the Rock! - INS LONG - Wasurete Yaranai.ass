@@ -17,9 +17,9 @@ Video File: Bocchi the Rock! - INS LONG - Wasurete Yaranai.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 32
-Active Line: 42
-Video Position: 4688
+Scroll Position: 59
+Active Line: 78
+Video Position: 3962
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -88,26 +88,26 @@ Dialogue: 0,0:01:08.02,0:01:13.19,CR_DefaultItalics,Kita,0,0,0,,is rich with eva
 Dialogue: 0,0:01:13.19,0:01:16.10,CR_DefaultItalics,Kita,0,0,0,,I will never forget, ever
 Dialogue: 0,0:01:16.10,0:01:18.77,CR_DefaultItalics,Kita,0,0,0,,So many times before I die someday...
 Dialogue: 0,0:01:18.77,0:01:23.98,CR_DefaultItalics,Kita,0,0,0,,I'll laugh thinking about what it was like
-Comment: 0,0:01:26.54,0:01:29.03,CR_DefaultItalics,,0,0,0,,Semai kyoushitsu shinkuu joutai
-Comment: 0,0:01:29.15,0:01:31.59,CR_DefaultItalics,,0,0,0,,Shounen tachi wa seishun zenkai
-Comment: 0,0:01:31.81,0:01:36.37,CR_DefaultItalics,,0,0,0,,Kiritorisen de kugireta boku no sekai
-Comment: 0,0:01:36.98,0:01:39.35,CR_DefaultItalics,,0,0,0,,Kirai na boku no rettoukan to
-Comment: 0,0:01:39.59,0:01:42.02,CR_DefaultItalics,,0,0,0,,Tanin to chigau yuuetsukan to
-Comment: 0,0:01:42.18,0:01:44.69,CR_DefaultItalics,,0,0,0,,Semegiau zetsumyou na kanjou
-Comment: 0,0:01:44.69,0:01:47.03,CR_DefaultItalics,,0,0,0,,Ittai nani yatten da
-Comment: 0,0:01:47.38,0:01:49.90,CR_DefaultItalics,,0,0,0,,“Wakaru wakaru, onaji kimochi sa”
-Comment: 0,0:01:50.06,0:01:52.52,CR_DefaultItalics,,0,0,0,,Honto ni sou omotteimasu ka?
-Comment: 0,0:01:53.11,0:01:57.40,CR_DefaultItalics,,0,0,0,,Tajirogu boku no ki mo shiranaide
-Comment: 0,0:01:57.66,0:02:02.77,CR_DefaultItalics,,0,0,0,,Dareka ga hajimeru kyou wa
-Comment: 0,0:02:02.94,0:02:07.86,CR_DefaultItalics,,0,0,0,,Boku ni wa owari no kyou sa
-Comment: 0,0:02:08.11,0:02:13.19,CR_DefaultItalics,,0,0,0,,Kurikaesu ashibumi ni mirai kara no yobigoe ga
-Comment: 0,0:02:13.31,0:02:18.56,CR_DefaultItalics,,0,0,0,,Hibiiteru “susume yo” to
-Comment: 0,0:02:18.77,0:02:21.16,CR_DefaultItalics,,0,0,0,,Unmei ya kiseki nante mono wa
-Comment: 0,0:02:21.34,0:02:23.90,CR_DefaultItalics,,0,0,0,,Kitto boku ni wa mottai nai ya
-Comment: 0,0:02:24.13,0:02:28.98,CR_DefaultItalics,,0,0,0,,Nanto naku no ippo wo fumidasu dake sa
-Comment: 0,0:02:39.59,0:02:42.07,CR_DefaultItalics,,0,0,0,,Otona hodo kusattemo inakute
-Comment: 0,0:02:42.27,0:02:45.06,CR_DefaultItalics,,0,0,0,,Kodomo hodo tensai janai ga
-Comment: 0,0:02:45.30,0:02:49.71,CR_DefaultItalics,,0,0,0,,Boku wa ima jinsei no chuukan da
+Dialogue: 0,0:01:26.54,0:01:29.15,CR_DefaultItalics,,0,0,0,,A cramped classroom, existing in a vacuum
+Dialogue: 0,0:01:29.15,0:01:31.81,CR_DefaultItalics,,0,0,0,,The boys are enjoying their youth
+Dialogue: 0,0:01:31.81,0:01:36.37,CR_DefaultItalics,,0,0,0,,My world is separated by a perforated line
+Dialogue: 0,0:01:36.98,0:01:39.59,CR_DefaultItalics,,0,0,0,,This hateful feeling of inferiority
+Dialogue: 0,0:01:39.59,0:01:42.18,CR_DefaultItalics,,0,0,0,,Is my sense of superiorty over everyone else
+Dialogue: 0,0:01:42.18,0:01:44.69,CR_DefaultItalics,,0,0,0,,A sublime emotion that's in constant conflict
+Dialogue: 0,0:01:44.69,0:01:47.38,CR_DefaultItalics,,0,0,0,,What on Earth am I doing?
+Dialogue: 0,0:01:47.38,0:01:50.06,CR_DefaultItalics,,0,0,0,,"I totally get it! I feel the same way."
+Dialogue: 0,0:01:50.06,0:01:52.52,CR_DefaultItalics,,0,0,0,,Do you actually think that?
+Dialogue: 0,0:01:53.11,0:01:57.66,CR_DefaultItalics,,0,0,0,,You don’t even know how much that irks me
+Dialogue: 0,0:01:57.66,0:02:02.77,CR_DefaultItalics,,0,0,0,,Someone else's beginning to today
+Dialogue: 0,0:02:02.77,0:02:08.11,CR_DefaultItalics,,0,0,0,,Is nothing but an ending to me
+Dialogue: 0,0:02:08.11,0:02:13.19,CR_DefaultItalics,,0,0,0,,As I repeat my footsteps, the future is calling to me
+Dialogue: 0,0:02:13.19,0:02:18.56,CR_DefaultItalics,,0,0,0,,"Keep moving forward," it echoes
+Dialogue: 0,0:02:18.56,0:02:21.34,CR_DefaultItalics,,0,0,0,,But things like fate and miracles
+Dialogue: 0,0:02:21.34,0:02:23.90,CR_DefaultItalics,,0,0,0,,Are surely wasted on me
+Dialogue: 0,0:02:23.90,0:02:28.98,CR_DefaultItalics,,0,0,0,,I can only take the steps as they come
+Dialogue: 0,0:02:39.59,0:02:42.27,CR_DefaultItalics,,0,0,0,,I'm not as spoiled as an adult
+Dialogue: 0,0:02:42.27,0:02:45.06,CR_DefaultItalics,,0,0,0,,But I'm no child genius either
+Dialogue: 0,0:02:45.06,0:02:49.69,CR_DefaultItalics,,0,0,0,,I'm right in the middle of my life
 Dialogue: 0,0:02:49.69,0:02:54.98,CR_DefaultItalics,Kita,0,0,0,,I feel like the wind's leaving me behind
 Dialogue: 0,0:02:54.98,0:03:00.15,CR_DefaultItalics,Kita,0,0,0,,So I'm desperately clinging on
 Dialogue: 0,0:03:00.15,0:03:02.81,CR_DefaultItalics,Kita,0,0,0,,That familiar sound of the bell
