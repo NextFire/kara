@@ -16,14 +16,14 @@ Audio File: Oshi no Ko - ED - Mephisto.mp4
 Video File: Oshi no Ko - ED - Mephisto.mp4
 Video AR Mode: 4
 Video AR Value: 2.364532
-Video Zoom Percent: 0.750000
-Scroll Position: 19
-Active Line: 21
-Video Position: 2422
+Video Zoom Percent: 0.500000
+Scroll Position: 25
+Active Line: 45
+Video Position: 2590
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Amaranth,80,&H00A9355C,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,30,30,30,1
+Style: Default,Amaranth,80,&H00873736,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,30,30,30,1
 Style: CR_Default,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,3,2,30,30,54,0
 Style: CR_DefaultItalics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6,3,2,30,30,54,0
 
@@ -32,11 +32,11 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:29.39,0:00:33.61,Default,,0,0,0,,{\k100}{\k22}ra{\k21}su{\k15}to {\k38}chan{\k24}su {\k23}ni {\k19}u{\k20}e{\k16}ta {\k23}tsu{\k20}ma{\k20}sa{\k24}ki {\k37}ga
 Dialogue: 0,0:00:32.61,0:00:36.61,Default,,0,0,0,,{\k100}{\k21}o{\k22}do{\k17}ri{\k20}da{\k21}su {\k21}ma{\k17}ma {\k23}ka{\k19}ke{\k19}ta {\k19}ko{\k20}no {\k19}yo{\k21}zo{\k21}ra
 Dialogue: 0,0:00:35.83,0:00:39.41,Default,,0,0,0,,{\k100}{\k19}na{\k20}mi {\k11}no {\k10}su{\k35}tan{\k20}su {\k23}ja {\k22}na{\k20}bi{\k20}ka{\k22}na{\k36}i
-Dialogue: 0,0:00:38.41,0:00:42.94,Default,,0,0,0,,{\k100}{\k14}ho{\k27}shi {\k40}wa {\k21}ho{\k16}u{\k24}se{\k19}ki {\k20}no {\k40}a{\k21}ko{\k19}ga{\k21}re{\kf71}~
+Dialogue: 0,0:00:38.41,0:00:42.94,Default,,0,0,0,,{\k100}{\k14}ho{\k27}shi {\k40}wa {\k21}ho{\k16}u{\k24}se{\k19}ki {\k20}no {\k40}a{\k21}ko{\k19}ga{\k8}re{\kf84}~
 Dialogue: 0,0:00:42.23,0:00:46.43,Default,,0,0,0,,{\k100}{\k18}u{\k21}ka{\k20}bu {\k20}na{\k20}mi{\k20}da {\k19}to {\k17}a{\k23}se {\k16}wa {\k23}chi {\k20}no {\k18}na{\k23}go{\k42}ri
 Dialogue: 0,0:00:45.43,0:00:49.42,Default,,0,0,0,,{\k100}{\k18}me {\k20}no {\k18}na{\k25}ka {\k12}de {\k26}shi{\k19}ka {\k25}o{\k17}yo{\k18}ge{\k21}na{\k11}kya {\k27}shi{\k21}ba{\k21}i
 Dialogue: 0,0:00:48.64,0:00:52.22,Default,,0,0,0,,{\k100}{\k18}da{\k21}ke{\k8}do {\k11}su{\k24}te{\k14}e{\k22}ji {\k19}ga {\k23}ni{\k13}ga{\k25}sa{\k21}na{\k39}i
-Dialogue: 0,0:00:51.22,0:00:55.83,Default,,0,0,0,,{\k100}{\k17}i{\k24}tsu {\k27}i{\k13}tsu{\k19}ma{\k19}de{\k63}mo {\k40}a{\k18}ko{\k20}ga{\k20}re{\kf81}~
+Dialogue: 0,0:00:51.22,0:00:55.83,Default,,0,0,0,,{\k100}{\k17}i{\k24}tsu {\k27}i{\k13}tsu{\k19}ma{\k19}de{\k63}mo {\k40}a{\k18}ko{\k20}ga{\k8}re{\kf93}~
 Dialogue: 0,0:00:55.01,0:00:58.02,Default,,0,0,0,,{\k100}{\k21}ko{\k21}ga{\k19}re{\k23}te{\k18}i{\k23}ru {\k15}yo{\kf61}~
 Dialogue: 0,0:00:56.40,0:01:00.29,Default,,0,0,0,,{\k100}{\k42}(I’ve {\k21}ne{\k18}ver {\k41}seen {\k34}(oh) {\k25}such {\k20}a {\k21}l{\k22}i{\k45}ar.)
 Dialogue: 0,0:00:59.43,0:01:03.96,Default,,0,0,0,,{\k100}{\k19}u{\k23}ma{\k13}re{\k24}tsu{\k21}ki {\k37}tat{\k22}te {\k15}no {\k45}so{\k40}ko{\k35}na{\k59}shi
@@ -52,26 +52,26 @@ Dialogue: 0,0:01:31.46,0:01:35.55,Default,,0,0,0,,{\k100}{\k12}ho{\k25}shi {\k19
 Dialogue: 0,0:01:34.28,0:01:40.52,Default,,0,0,0,,{\k100}{\kf49}saa {\k19}ho{\k27}shi {\k19}no {\k21}ko{\k19}ta{\k18}chi {\k21}yo{\kf25}~{\k26} {\k24}yo{\k23}ku {\k24}o {\k19}ne{\k21}mu{\kf60}ri {\k13}na{\k28}sa{\kf68}i
 Dialogue: 0,0:01:41.00,0:01:47.03,Default,,0,0,0,,{\k100}{\k24}ka{\k24}ga{\k16}ya{\k22}ki {\k16}wa {\k21}ni{\k20}bu{\k21}ra{\k21}na{\k36}i {\k23}a{\k18}na{\k20}ta{\k20}-ta{\k21}chi{\kf46}~{\k17} {\k22}na{\k23}ra{\k72}ba
 Dialogue: 0,0:01:47.01,0:01:54.00,Default,,0,0,0,,{\k100}{\kf54}saa {\k19}ho{\k27}shi {\k19}no {\k21}ko{\k21}ta{\k22}chi {\k16}yo{\kf30}~{\k31} {\k21}yo{\k20}ku {\k24}o {\k20}ne{\k21}mu{\kf59}ri {\k16}na{\k32}sa{\kf126}i
-Comment: 0,0:00:30.39,0:00:33.61,CR_DefaultItalics,,0,0,0,,rasuto chansu ni ueta tsumasaki ga
-Comment: 0,0:00:33.61,0:00:36.61,CR_DefaultItalics,,0,0,0,,odoridasu mama kaketa kono yozora
-Comment: 0,0:00:36.83,0:00:39.41,CR_DefaultItalics,,0,0,0,,nami no sutansu ja nabikanai
-Comment: 0,0:00:39.41,0:00:42.94,CR_DefaultItalics,,0,0,0,,hoshi wa houseki no akogare
-Comment: 0,0:00:43.23,0:00:46.43,CR_DefaultItalics,,0,0,0,,ukabu namida to ase wa chi no nagori
-Comment: 0,0:00:46.43,0:00:49.42,CR_DefaultItalics,,0,0,0,,me no naka de shika oyogenakya shibai
-Comment: 0,0:00:49.64,0:00:52.22,CR_DefaultItalics,,0,0,0,,dakedo suteeji ga nigasanai
-Comment: 0,0:00:52.22,0:00:55.83,CR_DefaultItalics,,0,0,0,,itsu itsumademo akogare
-Comment: 0,0:00:56.01,0:00:58.02,CR_DefaultItalics,,0,0,0,,kogareteiru yo
+Dialogue: 0,0:00:30.39,0:00:33.61,CR_DefaultItalics,,0,0,0,,My toes, hungry for a last chance
+Dialogue: 0,0:00:33.61,0:00:36.83,CR_DefaultItalics,,0,0,0,,Began to dance across the night sky
+Dialogue: 0,0:00:36.83,0:00:39.41,CR_DefaultItalics,,0,0,0,,An ordinary stance will never enchant
+Dialogue: 0,0:00:39.41,0:00:42.94,CR_DefaultItalics,,0,0,0,,Only stars can be the envy of jewels
+Dialogue: 0,0:00:43.23,0:00:46.43,CR_DefaultItalics,,0,0,0,,Tears and sweat float on the surface, the traces of blood
+Dialogue: 0,0:00:46.43,0:00:49.64,CR_DefaultItalics,,0,0,0,,To only swim in someone’s eyes is but a play
+Dialogue: 0,0:00:49.64,0:00:52.22,CR_DefaultItalics,,0,0,0,,But the stage won’t let me go
+Dialogue: 0,0:00:52.22,0:00:56.01,CR_DefaultItalics,,0,0,0,,I’ll seek for it forevermore
+Dialogue: 0,0:00:56.01,0:00:58.02,CR_DefaultItalics,,0,0,0,,Longing for it
 Comment: 0,0:00:57.40,0:01:00.29,CR_DefaultItalics,,0,0,0,,(I’ve never seen (oh) such a liar.)
-Comment: 0,0:01:00.43,0:01:03.96,CR_DefaultItalics,,0,0,0,,umaretsuki tatte no sokonashi
+Dialogue: 0,0:01:00.43,0:01:03.96,CR_DefaultItalics,,0,0,0,,You must have been born with this level of depravity
 Comment: 0,0:01:03.63,0:01:07.84,CR_DefaultItalics,,0,0,0,,(This lie is love. And this lie is a gift to the world.)
-Comment: 0,0:01:07.18,0:01:10.84,CR_DefaultItalics,,0,0,0,,dare to ikita ka omoidashite
-Comment: 0,0:01:10.52,0:01:15.47,CR_DefaultItalics,,0,0,0,,watashi ga inochi wo kakeru kara~
-Comment: 0,0:01:14.97,0:01:17.30,CR_DefaultItalics,,0,0,0,,ageru kara~
-Comment: 0,0:01:16.99,0:01:22.13,CR_DefaultItalics,,0,0,0,,anata wa jikan wo kureta no deshou?
-Comment: 0,0:01:22.13,0:01:28.57,CR_DefaultItalics,,0,0,0,,arayuru nozomi no subete wo kanaetara aa
-Comment: 0,0:01:27.76,0:01:29.99,CR_DefaultItalics,,0,0,0,,hataseta ra aa
-Comment: 0,0:01:29.76,0:01:32.55,CR_DefaultItalics,,0,0,0,,anata ni aitai
-Comment: 0,0:01:32.46,0:01:35.55,CR_DefaultItalics,,0,0,0,,hoshi ni negai wo kakete
-Comment: 0,0:01:35.28,0:01:40.52,CR_DefaultItalics,,0,0,0,,saa hoshi no kotachi yo yoku o-nemuri nasai
-Comment: 0,0:01:42.00,0:01:47.03,CR_DefaultItalics,,0,0,0,,kagayaki wa niburanai anata-tachi naraba
-Comment: 0,0:01:48.01,0:01:54.00,CR_DefaultItalics,,0,0,0,,saa hoshi no kotachi yo yoku o-nemuri nasai
+Dialogue: 0,0:01:07.18,0:01:10.52,CR_DefaultItalics,,0,0,0,,Remember who you lived alongside
+Dialogue: 0,0:01:10.52,0:01:14.97,CR_DefaultItalics,,0,0,0,,I’ll risk my life
+Dialogue: 0,0:01:14.97,0:01:16.99,CR_DefaultItalics,,0,0,0,,I’ll give my life to you
+Dialogue: 0,0:01:16.99,0:01:22.13,CR_DefaultItalics,,0,0,0,,After all, you gave me time, didn’t you?
+Dialogue: 0,0:01:22.13,0:01:27.76,CR_DefaultItalics,,0,0,0,,Once I fulfill all my desires
+Dialogue: 0,0:01:27.76,0:01:29.76,CR_DefaultItalics,,0,0,0,,Once I achieve them
+Dialogue: 0,0:01:29.76,0:01:32.46,CR_DefaultItalics,,0,0,0,,I want to see you
+Dialogue: 0,0:01:32.46,0:01:35.28,CR_DefaultItalics,,0,0,0,,So I wish upon a star
+Dialogue: 0,0:01:35.28,0:01:40.52,CR_DefaultItalics,,0,0,0,,Come, children of the stars, sleep well
+Dialogue: 0,0:01:42.00,0:01:47.03,CR_DefaultItalics,,0,0,0,,The light will not dim, if you’re the ones who shine
+Dialogue: 0,0:01:48.01,0:01:54.00,CR_DefaultItalics,,0,0,0,,Come, children of the stars, sleep well
