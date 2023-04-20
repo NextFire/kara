@@ -17,9 +17,9 @@ Video File: Oshi no Ko - ED - Mephisto.mp4
 Video AR Mode: 4
 Video AR Value: 2.364532
 Video Zoom Percent: 0.500000
-Scroll Position: 25
-Active Line: 45
-Video Position: 2590
+Scroll Position: 10
+Active Line: 21
+Video Position: 2566
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,13 +50,13 @@ Dialogue: 0,0:01:26.76,0:01:29.99,Default,,0,0,0,,{\k100}{\k27}ha{\k16}ta{\k25}s
 Dialogue: 0,0:01:28.76,0:01:32.55,Default,,0,0,0,,{\k100}{\k24}a{\k20}na{\k44}ta {\k37}ni {\k40}a{\k41}i{\k32}ta{\k41}i
 Dialogue: 0,0:01:31.46,0:01:35.55,Default,,0,0,0,,{\k100}{\k12}ho{\k25}shi {\k19}ni {\k22}ne{\k18}ga{\k14}i {\k23}wo {\k19}ka{\k42}ke{\k22}te{\kf93}~
 Dialogue: 0,0:01:34.28,0:01:40.52,Default,,0,0,0,,{\k100}{\kf49}saa {\k19}ho{\k27}shi {\k19}no {\k21}ko{\k19}ta{\k18}chi {\k21}yo{\kf25}~{\k26} {\k24}yo{\k23}ku {\k24}o {\k19}ne{\k21}mu{\kf60}ri {\k13}na{\k28}sa{\kf68}i
-Dialogue: 0,0:01:41.00,0:01:47.03,Default,,0,0,0,,{\k100}{\k24}ka{\k24}ga{\k16}ya{\k22}ki {\k16}wa {\k21}ni{\k20}bu{\k21}ra{\k21}na{\k36}i {\k23}a{\k18}na{\k20}ta{\k20}-ta{\k21}chi{\kf46}~{\k17} {\k22}na{\k23}ra{\k72}ba
+Dialogue: 0,0:01:41.00,0:01:47.03,Default,,0,0,0,,{\k100}{\k24}ka{\k24}ga{\k16}ya{\k22}ki {\k16}wa {\k21}ni{\k20}bu{\k21}ra{\k21}na{\k36}i {\k23}a{\k18}na{\k20}ta{\k20}-ta{\k21}chi{\kf46}~{\k17} {\k22}na{\k29}ra{\kf66}ba
 Dialogue: 0,0:01:47.01,0:01:54.00,Default,,0,0,0,,{\k100}{\kf54}saa {\k19}ho{\k27}shi {\k19}no {\k21}ko{\k21}ta{\k22}chi {\k16}yo{\kf30}~{\k31} {\k21}yo{\k20}ku {\k24}o {\k20}ne{\k21}mu{\kf59}ri {\k16}na{\k32}sa{\kf126}i
 Dialogue: 0,0:00:30.39,0:00:33.61,CR_DefaultItalics,,0,0,0,,My toes, hungry for a last chance
 Dialogue: 0,0:00:33.61,0:00:36.83,CR_DefaultItalics,,0,0,0,,Began to dance across the night sky
 Dialogue: 0,0:00:36.83,0:00:39.41,CR_DefaultItalics,,0,0,0,,An ordinary stance will never enchant
 Dialogue: 0,0:00:39.41,0:00:42.94,CR_DefaultItalics,,0,0,0,,Only stars can be the envy of jewels
-Dialogue: 0,0:00:43.23,0:00:46.43,CR_DefaultItalics,,0,0,0,,Tears and sweat float on the surface, the traces of blood
+Dialogue: 0,0:00:42.94,0:00:46.43,CR_DefaultItalics,,0,0,0,,Tears and sweat float on the surface, the traces of blood
 Dialogue: 0,0:00:46.43,0:00:49.64,CR_DefaultItalics,,0,0,0,,To only swim in someone’s eyes is but a play
 Dialogue: 0,0:00:49.64,0:00:52.22,CR_DefaultItalics,,0,0,0,,But the stage won’t let me go
 Dialogue: 0,0:00:52.22,0:00:56.01,CR_DefaultItalics,,0,0,0,,I’ll seek for it forevermore
