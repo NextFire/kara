@@ -3,12 +3,12 @@
 ; http://www.aegisub.org/
 WrapStyle: 0
 ScaledBorderAndShadow: yes
+Original Timing: yohane 0.1.0.dev0-5c77835 (https://github.com/Japan7/yohane)
 ScriptType: v4.00+
 YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 Title: Yorushika - LIVE - Hanamotase
-Original Timing: yohane 0.1.0.dev0-a2df596 (https://github.com/Japan7/yohane)
 Script Updated By: NextFire
 
 [Aegisub Project Garbage]
@@ -22,102 +22,102 @@ Video Position: 69
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Amaranth,80,&H000084FF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,30,30,30,1
+Style: Default,Amaranth,80,&H000084FF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,113,113,45,1
 Style: EN,Trebuchet MS,50,&H00FFFFFF,&H000000FF,&H000084FF,&H000073DE,-1,0,0,0,100,100,0,0,1,1.5,1,2,113,113,45,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.86,0:00:08.32,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k24}sa{\k26}yo{\k24}na{\k12}ra{\k16} {\k8}wo{\k22} {\k30}o{\k36}i{\k10}te{\k12} {\k36}bo{\k8}ku{\k6} {\k8}ni{\k16} {\k22}ha{\k12}na{\k16} {\k20}mo{\k28}ta{\k14}se
-Dialogue: 0,0:00:07.58,0:00:12.38,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k18}o{\k20}bo{\k26}tsu{\k24}ka{\k12}nu{\k14} {\k46}ma{\k10}ma{\k18} {\k8}ni{\k14} {\k30}yo{\k8}ru{\k10} {\k12}ga{\k18} {\k14}a{\k26}ke{\k12}te
-Dialogue: 0,0:00:11.82,0:00:16.06,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k30}da{\k20}re{\k10}mo{\k22} {\k14}i{\k38}na{\k2}i{\k12} {\k24}he{\k8}ya{\k14} {\k12}de{\k26} {\k14}o{\k26}ki{\k12}ta
-Dialogue: 0,0:00:15.22,0:00:20.12,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}so{\k10}no{\k14} {\k22}nu{\k26}ku{\k30}mo{\k12}ri{\k34} {\k20}hi{\k22}to{\k14}tsu{\k36} {\k24}no{\k36}ko{\k12}shi{\k10}te
-Dialogue: 0,0:00:35.34,0:00:43.18,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k26}ki{\k38}no{\k2}u{\k10} {\k12}no{\k14} {\k28}yo{\k8}ru{\k12} {\k12}no{\k36} {\k24}ko{\k10}to{\k16} {\k12}wa{\k34} {\k26}su{\k26}ko{\k12}shi{\k34} {\k12}mo{\k24} {\k16}o{\k54}bo{\k14}e{\k28}te{\k34}na{\k2}i{\k12} {\k24}ke{\k22}re{\k10}do
-Dialogue: 0,0:00:43.18,0:00:50.42,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k20}ho{\k12}ka{\k38} {\k10}ni{\k14} {\k24}da{\k26}re{\k10}ka{\k36} {\k10}ga{\k22} {\k16}i{\k10}ta{\k38} {\k30}so{\k20}n{\k12}na{\k36} {\k12}ki{\k10} {\k10}ga{\k16} {\k46}ta{\k24}da{\k26}shi{\k32}te{\k14}i{\k10}ru
-Dialogue: 0,0:00:50.84,0:00:58.68,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k24}fu{\k52}tsu{\k10}ka{\k14} {\k34}yo{\k2}i{\k12} {\k10}ga{\k38} {\k22}no{\k28}ko{\k10}ru{\k46} {\k16}a{\k24}ta{\k12}ma{\k36} {\k10}wa{\k14} {\k30}ma{\k28}wa{\k12}c{\k14}cha{\k22} {\k16}i{\k34}na{\k2}i{\k12} {\k26}ke{\k22}re{\k12}do
-Dialogue: 0,0:00:58.66,0:01:05.94,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k20}wa{\k28}ka{\k22}ra{\k36}na{\k2}i{\k10} {\k24}ma{\k10}ma{\k40} {\k22}de{\k10}mo{\k16} {\k22}ma{\k2}a{\k22} {\k24}so{\k12}re{\k16} {\k10}wa{\k34} {\k26}so{\k12}re{\k14} {\k42}de{\k12}mo{\k16} {\k28}ki{\k34}re{\k2}i{\k10} {\k10}da
-Dialogue: 0,0:01:06.12,0:01:14.00,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k40}se{\k12}n{\k36}me{\k14}n{\k40}da{\k2}i{\k0} {\k18}no{\k18} {\k10}ha{\k16} {\k24}bu{\k22}ra{\k12}shi{\k12} {\k30}da{\k22}re{\k10}ka{\k14} {\k10}no{\k14} {\k34}ko{\k16}p{\k12}pu{\k38} {\k28}ta{\k8}na{\k16} {\k8}no{\k12} {\k22}ke{\k40}sho{\k12}u{\k24}su{\k2}i
-Dialogue: 0,0:01:12.92,0:01:17.36,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k18}o{\k40}bo{\k2}e{\k10} {\k10}no{\k14} {\k62}na{\k2}i{\k8} {\k26}mo{\k10}no{\k14} {\k26}ba{\k28}ka{\k10}ri{\k12} {\k12}da
-Dialogue: 0,0:01:16.82,0:01:21.26,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k26}ma{\k26}ku{\k10}ra{\k16} {\k8}wa{\k12} {\k24}ha{\k12}na{\k18} {\k8}no{\k14} {\k32}ni{\k28}o{\k2}i{\k8} {\k10}ga{\k14} {\k26}su{\k10}ru
-Dialogue: 0,0:01:20.68,0:01:26.14,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k26}sa{\k28}yo{\k22}na{\k12}ra{\k14} {\k8}wo{\k22} {\k30}o{\k36}i{\k10}te{\k14} {\k36}bo{\k8}ku{\k6} {\k10}ni{\k12} {\k22}ha{\k10}na{\k18} {\k22}mo{\k26}ta{\k14}se
-Dialogue: 0,0:01:25.38,0:01:30.24,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k16}o{\k24}bo{\k26}tsu{\k26}ka{\k10}nu{\k14} {\k46}ma{\k10}ma{\k18} {\k10}ni{\k14} {\k28}yo{\k8}ru{\k12} {\k10}ga{\k18} {\k16}a{\k26}ke{\k14}te
-Dialogue: 0,0:01:29.64,0:01:33.96,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k32}da{\k22}re{\k10}mo{\k24} {\k14}i{\k36}na{\k2}i{\k12} {\k26}he{\k10}ya{\k12} {\k10}de{\k26} {\k16}o{\k28}ki{\k12}ru
-Dialogue: 0,0:01:33.10,0:01:38.06,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}so{\k10}no{\k12} {\k22}nu{\k26}ku{\k32}mo{\k10}ri{\k36} {\k20}hi{\k22}to{\k14}tsu{\k40} {\k22}no{\k36}ko{\k14}shi{\k12}te
-Dialogue: 0,0:01:53.43,0:02:01.29,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}ki{\k36}no{\k2}u{\k10} {\k10}no{\k14} {\k26}yo{\k10}ru{\k12} {\k12}no{\k36} {\k22}ko{\k12}to{\k16} {\k12}wa{\k36} {\k26}so{\k10}ko{\k16} {\k46}ma{\k12}de{\k22} {\k18}o{\k56}bo{\k14}e{\k26}te{\k36}na{\k2}i{\k10} {\k26}ke{\k22}re{\k10}do
-Dialogue: 0,0:02:00.87,0:02:08.63,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k62}tsu{\k28}tsu{\k22}mo{\k22}ta{\k14}se{\k16} {\k10}wo{\k46} {\k14}u{\k26}ta{\k34}ga{\k2}u{\k38} {\k30}so{\k20}n{\k12}na{\k32} {\k14}ki{\k12} {\k10}mo{\k16} {\k48}shi{\k34}na{\k16}i{\k34}de{\k14}i{\k10}ru
-Dialogue: 0,0:02:09.05,0:02:20.93,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k22}fu{\k54}tsu{\k12}ka{\k14} {\k36}yo{\k2}i{\k10} {\k10}mo{\k34} {\k26}sa{\k28}me{\k10}ta{\k48} {\k18}a{\k24}ta{\k12}ma{\k34} {\k12}de{\k12} {\k32}ka{\k44}n{\k36}ga{\k14}e{\k58}te{\k14}i{\k10}ta{\k16} {\k24}ke{\k12}do{\k114} {\k22}wa{\k30}ka{\k22}ra{\k34}na{\k2}i{\k12} {\k22}ma{\k12}ma{\k38} {\k26}de{\k10}mo{\k20} {\k4}i{\k2}i
-Dialogue: 0,0:02:19.91,0:02:23.71,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k26}mu{\k26}shi{\k12}ro{\k30} {\k28}so{\k10}no{\k16} {\k28}ho{\k2}u{\k20} {\k10}ga{\k26} {\k4}i{\k2}i
-Dialogue: 0,0:02:24.53,0:02:32.39,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k30}ma{\k22}do{\k24}gi{\k8}wa{\k12} {\k38}sa{\k8}ku{\k6} {\k26}ra{\k28}be{\k22}n{\k48}da{\k2}a{\k2} {\k24}yo{\k26}go{\k22}re{\k10}ta{\k14} {\k34}shi{\k16}n{\k12}ku{\k26} {\k14}a{\k22}mi{\k26}ka{\k12}ke{\k12} {\k10}no{\k12} {\k38}ma{\k10}fu{\k28}ra{\k2}a
-Dialogue: 0,0:02:31.29,0:02:35.69,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k18}o{\k38}bo{\k2}e{\k12} {\k8}no{\k16} {\k56}na{\k2}i{\k10} {\k24}ko{\k12}to{\k16} {\k26}ba{\k26}ka{\k12}ri{\k10} {\k12}da
-Dialogue: 0,0:02:35.17,0:02:39.57,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}he{\k8}ya{\k12} {\k12}ni{\k12} {\k10}wa{\k12} {\k28}ha{\k8}ru{\k18} {\k10}no{\k12} {\k32}ni{\k30}o{\k2}i{\k8} {\k10}ga{\k14} {\k22}su{\k12}ru
-Dialogue: 0,0:02:39.09,0:02:44.49,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k16}u{\k24}ki{\k24}gu{\k10}mo{\k12} {\k28}tsu{\k74}ka{\k8}mu{\k16} {\k36}yo{\k2}u{\k12} {\k12}na{\k12} {\k22}ha{\k10}na{\k18} {\k22}mo{\k28}ta{\k14}se
-Dialogue: 0,0:02:43.89,0:02:48.53,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k24}da{\k24}re{\k8}mo{\k16} {\k28}ko{\k36}na{\k2}i{\k8} {\k24}ma{\k8}ma{\k16} {\k10}hi{\k36} {\k10}ga{\k14} {\k22}ku{\k26}re{\k12}te
-Dialogue: 0,0:02:47.97,0:02:52.27,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k30}yu{\k22}u{\k10}hi{\k12} {\k8}no{\k14} {\k38}sa{\k12}shi{\k10}ta{\k14} {\k22}ma{\k10}do{\k22} {\k20}hi{\k30}to{\k16}tsu
-Dialogue: 0,0:02:51.39,0:02:56.16,Default,,0,0,0,,{\k100}{\fad(200,200)}{\k26}na{\k22}ni{\k8}mo{\k14} {\k12}shi{\k46}ra{\k26}na{\k2}i{\k16} {\k24}bo{\k10}ku{\k16} {\k12}wo{\k34} {\k26}no{\k29}ko{\k19}shi{\k35}te
-Dialogue: 0,0:03:11.63,0:03:19.69,Default,,0,0,0,,{\k100}{\fad(200,200)}{\k27}ki{\k36}no{\k2}u{\k8} {\k10}no{\k14} {\k28}yo{\k10}ru{\k12} {\k12}no{\k32} {\k24}ko{\k12}to{\k16} {\k10}mo{\k40} {\k26}ho{\k20}n{\k36}to{\k2}u{\k8} {\k10}wa{\k14} {\k28}su{\k22}ko{\k8}shi{\k24} {\k16}o{\k36}bo{\k34}e{\k28}te{\k26}ru{\k2}n{\k20} {\k53}da
-Dialogue: 0,0:03:19.45,0:03:26.27,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k18}a{\k48}na{\k10}ta{\k14} {\k12}no{\k24} {\k14}i{\k28}na{\k2}i{\k16} {\k26}ku{\k24}ra{\k12}shi{\k34} {\k30}so{\k12}re{\k12} {\k10}ga{\k32} {\k28}tsu{\k26}zu{\k10}ku{\k40} {\k24}ko{\k10}to{\k14} {\k12}mo
-Dialogue: 0,0:03:27.25,0:03:35.27,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k16}i{\k14}ma{\k36} {\k24}de{\k10}mo{\k14} {\k26}ko{\k12}no{\k40} {\k18}a{\k26}ta{\k10}ma{\k40} {\k22}hi{\k28}to{\k16}tsu{\k30} {\k10}de{\k12} {\k36}ka{\k38}n{\k36}ga{\k14}e{\k38}te{\k10}i{\k12}ru{\k12} {\k24}ba{\k26}ka{\k12}ri
-Dialogue: 0,0:03:34.99,0:03:41.97,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k20}ha{\k14}na{\k36} {\k24}hi{\k24}to{\k12}tsu{\k12} {\k48}mo{\k22}ta{\k28}se{\k10}te{\k20} {\k54}ki{\k14}e{\k12}ta{\k46} {\k16}a{\k28}na{\k10}ta{\k40} {\k10}no{\k18} {\k28}ko{\k12}to
-Dialogue: 0,0:03:45.55,0:03:50.23,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}a{\k14}shi{\k10}ta{\k18} {\k10}ni{\k14} {\k10}wa{\k12} {\k46}ki{\k4}t{\k8}to{\k16} {\k26}mo{\k36}do{\k10}t{\k12}te{\k12} {\k32}ku{\k10}ru
-Dialogue: 0,0:03:49.41,0:03:54.15,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k26}na{\k22}ni{\k26}ge{\k36}na{\k2}i{\k10} {\k38}ka{\k2}o{\k12} {\k10}de{\k14} {\k38}ka{\k8}e{\k26}t{\k12}te{\k14} {\k30}ku{\k8}ru
-Dialogue: 0,0:03:53.45,0:03:58.59,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k18}i{\k10}ma{\k42} {\k10}ni{\k12} {\k38}do{\k2}a{\k36} {\k10}ga{\k12} {\k24}hi{\k36}ra{\k14}i{\k10}te{\k14} {\k22}ki{\k36}ko{\k16}e{\k12}ru
-Dialogue: 0,0:03:57.55,0:04:02.01,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k24}go{\k36}me{\k2}n{\k10} {\k12}ne{\k20} {\k20}o{\k48}so{\k12}ku{\k14} {\k34}na{\k12}t{\k14}ta{\k20} {\k14}t{\k14}te
-Dialogue: 0,0:04:01.21,0:04:05.91,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k24}ko{\k28}to{\k8}ba{\k16} {\k22}da{\k10}ke{\k24} {\k12}wo{\k8} {\k44}zu{\k4}t{\k6}to{\k16} {\k38}ma{\k12}t{\k36}te{\k12}i{\k10}ru
-Dialogue: 0,0:04:05.17,0:04:09.87,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k10}yu{\k62}u{\k26}ya{\k12}ke{\k16} {\k8}wo{\k14} {\k46}ji{\k4}t{\k8}to{\k16} {\k36}ma{\k12}t{\k38}te{\k14}i{\k8}ru
-Dialogue: 0,0:04:17.21,0:04:22.73,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k22}wa{\k30}su{\k20}re{\k10}te{\k10} {\k26}shi{\k86}ma{\k2}u{\k14} {\k38}ma{\k2}e{\k8} {\k10}ni{\k12} {\k26}ha{\k12}na{\k28} {\k12}e{\k32}ga{\k12}ke
-Dialogue: 0,0:04:21.87,0:04:26.81,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k36}kyo{\k2}u{\k8} {\k10}mo{\k18} {\k24}hi{\k28}to{\k12}ri{\k36} {\k22}ma{\k10}ta{\k14} {\k52}yo{\k10}ru{\k12} {\k10}ga{\k14} {\k26}ki{\k10}te
-Dialogue: 0,0:04:26.25,0:04:30.57,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k32}da{\k20}re{\k10}mo{\k24} {\k14}i{\k38}na{\k2}i{\k10} {\k24}he{\k12}ya{\k14} {\k10}de{\k20} {\k20}ne{\k32}mu{\k10}ru
-Dialogue: 0,0:04:29.73,0:04:34.67,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}so{\k10}no{\k14} {\k22}nu{\k24}ku{\k32}mo{\k12}ri{\k32} {\k26}bo{\k10}ku{\k16} {\k10}ni{\k34} {\k26}no{\k34}ko{\k14}shi{\k10}te
-Dialogue: 0,0:04:33.39,0:04:38.47,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}ba{\k10}ka{\k12} {\k24}mi{\k38}ta{\k2}i{\k36} {\k10}ni{\k22} {\k28}a{\k2}i{\k8} {\k12}wa{\k14} {\k24}ha{\k10}na{\k18} {\k22}mo{\k34}ta{\k14}se
-Dialogue: 0,0:04:37.55,0:04:42.49,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k26}ko{\k10}no{\k16} {\k26}he{\k8}ya{\k12} {\k12}ni{\k18} {\k10}mo{\k34} {\k24}ma{\k10}ta{\k16} {\k50}ha{\k10}ru{\k14} {\k10}ga{\k12} {\k24}ki{\k12}te
-Dialogue: 0,0:04:41.75,0:04:46.19,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k16}a{\k26}na{\k12}ta{\k14} {\k10}no{\k24} {\k14}i{\k40}na{\k2}i{\k8} {\k24}ma{\k12}chi{\k14} {\k10}wo{\k26} {\k12}i{\k30}ki{\k10}ru
-Dialogue: 0,0:04:45.33,0:04:50.25,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k30}so{\k10}no{\k14} {\k20}nu{\k24}ku{\k32}mo{\k10}ri{\k34} {\k22}bo{\k10}ku{\k16} {\k10}ni{\k36} {\k26}no{\k36}ko{\k12}shi{\k10}te
-Dialogue: 0,0:04:49.25,0:04:54.25,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k22}bo{\k10}ku{\k16} {\k12}ni{\k14} {\k24}hi{\k30}to{\k14}tsu{\k36} {\k22}ha{\k10}na{\k18} {\k12}wo{\k34} {\k26}no{\k36}ko{\k12}shi{\k12}te
-Dialogue: 0,0:04:57.59,0:05:02.37,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}ko{\k24}to{\k10}ba{\k16} {\k24}da{\k12}ke{\k14} {\k10}wo{\k14} {\k44}zu{\k4}t{\k8}to{\k14} {\k26}ma{\k26}t{\k34}te{\k18}i{\k12}ru
-Dialogue: 0,0:05:05.59,0:05:11.81,Default,,0,0,0,,{\k100}{\fad(200,200)}{\k46}yu{\k20}u{\k26}ya{\k12}ke{\k16} {\k8}wo{\k12} {\k46}ji{\k4}t{\k8}to{\k16} {\k36}ma{\k12}t{\k38}te{\k14}i{\k208}ru
-Dialogue: 0,0:00:03.86,0:00:08.30,EN,,0,0,0,,{\fad(200,200)}Leaving aside goodbyes, let to carry a flower
-Dialogue: 0,0:00:08.58,0:00:12.36,EN,,0,0,0,,{\fad(200,200)}With uncertainty the dawn breaks
-Dialogue: 0,0:00:12.84,0:00:16.06,EN,,0,0,0,,{\fad(200,200)}I woke up in a room alone
-Dialogue: 0,0:00:16.24,0:00:20.12,EN,,0,0,0,,{\fad(200,200)}With that warmth as the only thing left
-Dialogue: 0,0:00:36.36,0:00:43.18,EN,,0,0,0,,{\fad(200,200)}Even though I don't remember a thing about last night
-Dialogue: 0,0:00:44.18,0:00:50.42,EN,,0,0,0,,{\fad(200,200)}Someone else was there, and I am confirming that thought
-Dialogue: 0,0:00:51.86,0:00:58.68,EN,,0,0,0,,{\fad(200,200)}I'm still hungover, and can't think straight
-Dialogue: 0,0:00:59.66,0:01:05.96,EN,,0,0,0,,{\fad(200,200)}Although I don't understand anything, well, what can I do? That also is beautiful
-Dialogue: 0,0:01:07.12,0:01:14.10,EN,,0,0,0,,{\fad(200,200)}A toothbrush on the wash stand, someone's drinking cup, a face lotion on the shelf
-Dialogue: 0,0:01:13.92,0:01:17.34,EN,,0,0,0,,{\fad(200,200)}Everything is just things I have no memories about
-Dialogue: 0,0:01:17.84,0:01:21.54,EN,,0,0,0,,{\fad(200,200)}The pillow smells of flowers
-Dialogue: 0,0:01:21.70,0:01:26.16,EN,,0,0,0,,{\fad(200,200)}Leaving aside goodbyes, let to carry a flower
-Dialogue: 0,0:01:26.38,0:01:30.22,EN,,0,0,0,,{\fad(200,200)}With uncertainty the dawn breaks
-Dialogue: 0,0:01:30.66,0:01:33.94,EN,,0,0,0,,{\fad(200,200)}I am waking up in a room alone
-Dialogue: 0,0:01:34.12,0:01:38.02,EN,,0,0,0,,{\fad(200,200)}With that warmth as the only thing left
-Dialogue: 0,0:01:54.43,0:02:01.31,EN,,0,0,0,,{\fad(200,200)}Even though I really don't remember last night that well
-Dialogue: 0,0:02:02.25,0:02:08.63,EN,,0,0,0,,{\fad(200,200)}I suspect I've been a subject to a badger game, but it doesn't feel like it
-Dialogue: 0,0:02:10.05,0:02:20.93,EN,,0,0,0,,{\fad(200,200)}Though I've been thinking about it with an already sober mind, it's fine if I don't know
-Dialogue: 0,0:02:20.91,0:02:23.69,EN,,0,0,0,,{\fad(200,200)}Or rather, thinking this way is fine
-Dialogue: 0,0:02:25.53,0:02:32.33,EN,,0,0,0,,{\fad(200,200)}Lavender blooming by the window, dirty sink, a knitted muffler
-Dialogue: 0,0:02:32.29,0:02:35.69,EN,,0,0,0,,{\fad(200,200)}Everything is just things I have no memories about
-Dialogue: 0,0:02:36.15,0:02:39.61,EN,,0,0,0,,{\fad(200,200)}The room smells of spring
-Dialogue: 0,0:02:40.09,0:02:44.47,EN,,0,0,0,,{\fad(200,200)}A flower badger game akin to grasping for drifting clouds
-Dialogue: 0,0:02:44.89,0:02:48.51,EN,,0,0,0,,{\fad(200,200)}With nobody coming, the sun sets
-Dialogue: 0,0:02:48.95,0:02:52.77,EN,,0,0,0,,{\fad(200,200)}Only the window tinged with setting sun
-Dialogue: 0,0:02:52.37,0:02:56.56,EN,,0,0,0,,{\fad(200,200)}Left me there knowing nothing
-Dialogue: 0,0:03:12.63,0:03:19.69,EN,,0,0,0,,{\fad(200,200)}I only remember a little of what actually happened last night
-Dialogue: 0,0:03:20.45,0:03:26.27,EN,,0,0,0,,{\fad(200,200)}Living without you, and that that will continue
-Dialogue: 0,0:03:28.25,0:03:35.27,EN,,0,0,0,,{\fad(200,200)}Even now I still only think about that one thing
-Dialogue: 0,0:03:36.01,0:03:41.97,EN,,0,0,0,,{\fad(200,200)}About you disappearing, giving me but a single flower
-Dialogue: 0,0:03:46.57,0:03:50.59,EN,,0,0,0,,{\fad(200,200)}You will surely return tomorrow
-Dialogue: 0,0:03:50.41,0:03:54.15,EN,,0,0,0,,{\fad(200,200)}Returning with an expression as if nothing happened
-Dialogue: 0,0:03:54.45,0:03:58.59,EN,,0,0,0,,{\fad(200,200)}Even now I hear the door opening
-Dialogue: 0,0:03:58.55,0:04:01.99,EN,,0,0,0,,{\fad(200,200)}Saying "Sorry, I'm late"
-Dialogue: 0,0:04:02.23,0:04:05.91,EN,,0,0,0,,{\fad(200,200)}I'm always waiting for nothing but words
-Dialogue: 0,0:04:06.19,0:04:09.85,EN,,0,0,0,,{\fad(200,200)}Patiently waiting for the evening glow of a sunset
-Dialogue: 0,0:04:18.17,0:04:22.73,EN,,0,0,0,,{\fad(200,200)}Before completely forgetting, picture the flowers in your mind
-Dialogue: 0,0:04:22.87,0:04:26.81,EN,,0,0,0,,{\fad(200,200)}Today as well, alone, the night comes
-Dialogue: 0,0:04:27.25,0:04:30.75,EN,,0,0,0,,{\fad(200,200)}By myself, I slumber in my room
-Dialogue: 0,0:04:30.75,0:04:34.67,EN,,0,0,0,,{\fad(200,200)}Left with that warmth for myself
-Dialogue: 0,0:04:34.39,0:04:38.45,EN,,0,0,0,,{\fad(200,200)}Foolishly, love is a given flower
-Dialogue: 0,0:04:38.57,0:04:42.49,EN,,0,0,0,,{\fad(200,200)}Even in this room spring will come again
-Dialogue: 0,0:04:42.75,0:04:46.17,EN,,0,0,0,,{\fad(200,200)}I'm living in a town without you
-Dialogue: 0,0:04:46.35,0:04:50.23,EN,,0,0,0,,{\fad(200,200)}Left with that warmth for myself
-Dialogue: 0,0:04:50.25,0:04:54.25,EN,,0,0,0,,{\fad(200,200)}Left with a flower for myself alone
-Dialogue: 0,0:04:58.65,0:05:02.81,EN,,0,0,0,,{\fad(200,200)}I'm always waiting for nothing but words
-Dialogue: 0,0:05:06.47,0:05:11.81,EN,,0,0,0,,{\fad(200,200)}Patiently waiting for the evening glow of a sunset
+Dialogue: 0,0:00:02.86,0:00:08.28,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k24}sa{\k26}yo{\k24}na{\k28}ra {\k20}wo {\k76}oi{\k22}te {\k36}bo{\k14}ku {\k24}ni {\k22}ha{\k28}na {\k20}mo{\k28}ta{\k50}se
+Dialogue: 0,0:00:07.58,0:00:12.49,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k18}o{\k20}bo{\k26}tsu{\k24}ka{\k26}nu {\k46}ma{\k28}ma {\k22}ni {\k30}yo{\k18}ru {\k22}ga {\k22}a{\k26}ke{\k63}te
+Dialogue: 0,0:00:11.82,0:00:16.00,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k30}da{\k20}re{\k27}mo {\k19}i{\k34}na{\k18}i {\k26}he{\k20}ya {\k31}de {\k21}o{\k26}ki{\k46}ta
+Dialogue: 0,0:00:15.22,0:00:20.03,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}so{\k24}no {\k22}nu{\k26}ku{\k30}mo{\k46}ri {\k20}hi{\k22}to{\k50}tsu {\k24}no{\k36}ko{\k12}shi{\k10}te
+Dialogue: 0,0:00:35.34,0:00:43.40,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k29}ki{\k47}nou {\k26}no {\k28}yo{\k20}ru {\k48}no {\k24}ko{\k26}to {\k46}wa {\k26}su{\k26}ko{\k46}shi {\k23}mo {\k29}o{\k42}bo{\k26}e{\k28}te{\k48}nai {\k24}ke{\k22}re{\k72}do
+Dialogue: 0,0:00:43.18,0:00:50.38,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k20}ho{\k50}ka {\k24}ni {\k24}da{\k26}re{\k46}ka {\k23}ga, {\k25}i{\k48}ta {\k30}so{\k20}n{\k48}na {\k22}ki {\k26}ga {\k46}ta{\k24}da{\k26}shi{\k32}te{\k14}i{\k46}ru
+Dialogue: 0,0:00:50.84,0:00:59.03,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k24}fu{\k52}tsu{\k24}ka {\k24}yo{\k24}i {\k48}ga {\k22}no{\k28}ko{\k46}ru {\k26}a{\k24}ta{\k48}ma {\k24}wa {\k30}ma{\k40}wac{\k29}cha {\k23}i{\k48}nai {\k26}ke{\k22}re{\k87}do
+Dialogue: 0,0:00:58.66,0:01:05.92,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k20}wa{\k28}ka{\k22}ra{\k27}na{\k21}i {\k24}ma{\k50}ma {\k22}de{\k26}mo {\k46}maa, {\k24}so{\k28}re {\k44}wa {\k26}so{\k26}re {\k42}de{\k28}mo {\k28}ki{\k46}rei {\k48}da
+Dialogue: 0,0:01:06.12,0:01:13.60,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k52}sen{\k50}men{\k53}dai {\k25}no {\k26}ha {\k24}bu{\k22}ra{\k24}shi, {\k30}da{\k22}re{\k24}ka {\k24}no {\k50}kop{\k50}pu, {\k28}ta{\k24}na {\k20}no {\k22}ke{\k52}shou{\k26}sui.
+Dialogue: 0,0:01:12.92,0:01:17.39,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k18}o{\k29}bo{\k23}e {\k24}no {\k72}nai {\k26}mo{\k24}no {\k26}ba{\k28}ka{\k22}ri {\k55}da
+Dialogue: 0,0:01:16.82,0:01:21.43,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k26}ma{\k26}ku{\k26}ra {\k20}wa {\k24}ha{\k30}na {\k22}no {\k21}ni{\k27}o{\k22}i {\k24}ga {\k26}su{\k67}ru
+Dialogue: 0,0:01:20.68,0:01:25.98,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k26}sa{\k28}yo{\k22}na{\k26}ra {\k20}wo {\k30}o{\k46}i{\k24}te {\k36}bo{\k14}ku {\k22}ni {\k22}ha{\k28}na {\k22}mo{\k26}ta{\k38}se
+Dialogue: 0,0:01:25.38,0:01:30.18,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k16}o{\k24}bo{\k26}tsu{\k26}ka{\k24}nu {\k46}ma{\k28}ma {\k24}ni {\k28}yo{\k20}ru {\k21}ga {\k23}a{\k26}ke{\k48}te
+Dialogue: 0,0:01:29.64,0:01:33.80,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k32}da{\k22}re{\k25}mo {\k23}i{\k25}na{\k25}i {\k23}he{\k25}ya {\k25}de {\k24}o{\k31}ki{\k36}ru
+Dialogue: 0,0:01:33.10,0:01:38.01,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}so{\k22}no {\k22}nu{\k26}ku{\k32}mo{\k46}ri {\k20}hi{\k22}to{\k54}tsu {\k22}no{\k36}ko{\k14}shi{\k12}te
+Dialogue: 0,0:01:53.43,0:02:01.49,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}ki{\k48}nou {\k24}no {\k26}yo{\k22}ru {\k48}no {\k22}ko{\k28}to {\k48}wa {\k26}so{\k26}ko {\k46}ma{\k23}de {\k29}o{\k47}bo{\k23}e{\k26}te{\k48}nai {\k26}ke{\k22}re{\k70}do
+Dialogue: 0,0:02:01.24,0:02:08.80,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k25}tsu{\k27}tsu{\k21}mo{\k21}ta{\k31}se {\k25}wo {\k43}u{\k28}ta{\k26}ga{\k45}u, {\k30}so{\k24}n{\k46}na {\k25}ki {\k19}mo {\k55}shi{\k23}na{\k25}i{\k20}de{\k24}i{\k73}ru
+Dialogue: 0,0:02:09.05,0:02:20.73,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k22}fu{\k54}tsu{\k26}ka {\k24}yo{\k24}i {\k44}mo {\k26}sa{\k28}me{\k49}ta {\k27}a{\k24}ta{\k46}ma {\k24}de {\k32}ka{\k44}n{\k24}ga{\k26}e{\k46}te{\k26}i{\k26}ta {\k24}ke{\k122}do, {\k26}wa{\k30}ka{\k22}ra{\k25}na{\k23}i {\k22}ma{\k50}ma {\k26}de{\k24}mo {\k32}ii
+Dialogue: 0,0:02:19.91,0:02:24.12,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k26}mu{\k26}shi{\k42}ro {\k28}so{\k26}no {\k18}ho{\k32}u {\k28}ga {\k13}i{\k82}i
+Dialogue: 0,0:02:24.53,0:02:31.99,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k30}ma{\k22}do{\k24}gi{\k20}wa {\k38}sa{\k14}ku {\k26}ra{\k28}be{\k22}n{\k52}daa, {\k24}yo{\k26}go{\k22}re{\k24}ta {\k50}shin{\k26}ku, {\k26}a{\k22}mi{\k26}ka{\k24}ke {\k22}no {\k28}ma{\k20}fu{\k30}raa,
+Dialogue: 0,0:02:31.29,0:02:35.88,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k18}o{\k27}bo{\k25}e {\k24}no {\k68}nai {\k24}ko{\k28}to {\k26}ba{\k26}ka{\k22}ri {\k71}da
+Dialogue: 0,0:02:35.17,0:02:39.85,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k22}he{\k26}ya {\k24}ni {\k22}wa {\k28}ha{\k26}ru {\k22}no {\k22}ni{\k30}o{\k20}i {\k24}ga {\k22}su{\k80}ru
+Dialogue: 0,0:02:39.09,0:02:44.44,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k16}u{\k24}ki{\k24}gu{\k22}mo {\k28}tsu{\k74}ka{\k24}mu {\k36}yo{\k14}u {\k24}na {\k22}ha{\k28}na {\k22}mo{\k28}ta{\k14}se
+Dialogue: 0,0:02:43.89,0:02:48.65,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k24}da{\k24}re{\k24}mo {\k28}ko{\k46}nai {\k24}ma{\k24}ma {\k46}hi {\k24}ga {\k22}ku{\k26}re{\k64}te
+Dialogue: 0,0:02:47.97,0:02:52.25,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k52}yuu{\k22}hi {\k22}no {\k31}sa{\k19}shi{\k24}ta {\k22}ma{\k32}do {\k20}hi{\k30}to{\k54}tsu
+Dialogue: 0,0:02:51.39,0:02:56.16,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k26}na{\k22}ni{\k22}mo {\k26}shi{\k32}ra{\k44}nai {\k24}bo{\k26}ku {\k46}wo {\k26}no{\k31}ko{\k16}shi{\k36}te
+Dialogue: 0,0:03:11.60,0:03:19.68,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k30}ki{\k46}nou {\k24}no {\k28}yo{\k22}ru {\k44}no {\k24}ko{\k28}to {\k50}mo {\k26}ho{\k20}n{\k46}tou {\k24}wa {\k28}su{\k22}ko{\k27}shi {\k21}o{\k25}bo{\k45}e{\k28}te{\k26}ru{\k22}n {\k52}da
+Dialogue: 0,0:03:19.45,0:03:26.31,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k18}a{\k48}na{\k24}ta {\k25}no {\k25}i{\k46}nai {\k26}ku{\k19}ra{\k51}shi, {\k26}so{\k28}re {\k42}ga {\k28}tsu{\k26}zu{\k50}ku {\k24}ko{\k24}to {\k56}mo
+Dialogue: 0,0:03:27.25,0:03:35.21,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k16}i{\k50}ma {\k24}de{\k24}mo {\k26}ko{\k47}no {\k23}a{\k26}ta{\k50}ma {\k22}hi{\k28}to{\k46}tsu {\k22}de {\k36}ka{\k38}n{\k26}ga{\k24}e{\k48}tei{\k24}ru {\k24}ba{\k26}ka{\k46}ri
+Dialogue: 0,0:03:34.99,0:03:42.12,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k20}ha{\k50}na {\k24}hi{\k24}to{\k24}tsu {\k48}mo{\k22}ta{\k28}se{\k53}te {\k22}ki{\k23}e{\k47}ta {\k27}a{\k28}na{\k50}ta {\k28}no {\k28}ko{\k67}to
+Dialogue: 0,0:03:45.55,0:03:50.20,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}a{\k14}shi{\k28}ta {\k24}ni {\k22}wa {\k25}ki{\k25}t{\k24}to {\k26}mo{\k27}do{\k19}t{\k24}te {\k32}ku{\k47}ru
+Dialogue: 0,0:03:49.41,0:03:54.18,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k26}na{\k22}ni{\k26}ge{\k27}na{\k21}i {\k29}ka{\k23}o {\k24}de {\k23}ka{\k36}e{\k13}t{\k26}te {\k30}ku{\k51}ru
+Dialogue: 0,0:03:53.45,0:03:58.33,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k18}i{\k52}ma {\k22}ni {\k23}do{\k53}a {\k22}ga {\k24}hi{\k25}ra{\k25}i{\k24}te {\k29}ki{\k29}ko{\k16}e{\k26}ru
+Dialogue: 0,0:03:57.55,0:04:01.85,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k24}go{\k36}me{\k12}n {\k26}ne, {\k23}o{\k51}so{\k26}ku {\k46}nat{\k53}ta {\k33}tte
+Dialogue: 0,0:04:01.21,0:04:05.94,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k24}ko{\k28}to{\k24}ba {\k22}da{\k24}ke {\k30}wo {\k48}zut{\k22}to {\k50}mat{\k28}te{\k20}i{\k53}ru
+Dialogue: 0,0:04:05.17,0:04:10.54,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k47}yu{\k25}u{\k26}ya{\k28}ke {\k22}wo {\k47}jit{\k27}to {\k48}mat{\k24}te{\k21}i{\k122}ru
+Dialogue: 0,0:04:17.21,0:04:22.63,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k22}wa{\k29}su{\k21}re{\k20}te {\k26}shi{\k74}ma{\k28}u {\k24}ma{\k24}e {\k22}ni {\k26}ha{\k25}na {\k27}e{\k32}ga{\k42}ke
+Dialogue: 0,0:04:21.87,0:04:26.91,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k21}kyo{\k25}u {\k28}mo {\k24}hi{\k28}to{\k48}ri {\k22}ma{\k24}ta {\k52}yo{\k22}ru {\k24}ga {\k26}ki{\k60}te
+Dialogue: 0,0:04:26.25,0:04:30.47,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k32}da{\k20}re{\k25}mo {\k23}i{\k30}na{\k20}i {\k24}he{\k26}ya {\k30}de {\k20}ne{\k32}mu{\k40}ru
+Dialogue: 0,0:04:29.73,0:04:34.39,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}so{\k24}no {\k22}nu{\k24}ku{\k32}mo{\k44}ri, {\k26}bo{\k26}ku {\k44}ni {\k26}no{\k34}ko{\k14}shi{\k10}te
+Dialogue: 0,0:04:33.39,0:04:38.40,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}ba{\k22}ka {\k24}mi{\k76}tai {\k25}ni {\k24}a{\k21}i {\k26}wa {\k24}ha{\k28}na {\k22}mo{\k34}ta{\k47}se
+Dialogue: 0,0:04:37.55,0:04:42.44,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k26}ko{\k26}no {\k26}he{\k20}ya {\k30}ni {\k44}mo {\k24}ma{\k26}ta {\k50}ha{\k24}ru {\k22}ga {\k24}ki{\k12}te
+Dialogue: 0,0:04:41.75,0:04:46.22,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k16}a{\k26}na{\k26}ta {\k25}no {\k23}i{\k28}na{\k22}i {\k24}ma{\k26}chi {\k27}wo {\k21}i{\k30}ki{\k53}ru
+Dialogue: 0,0:04:45.33,0:04:50.06,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k30}so{\k21}no {\k23}nu{\k24}ku{\k32}mo{\k44}ri, {\k22}bo{\k26}ku {\k46}ni {\k26}no{\k36}ko{\k12}shi{\k31}te
+Dialogue: 0,0:04:49.25,0:04:54.19,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k22}bo{\k26}ku {\k26}ni {\k24}hi{\k30}to{\k50}tsu, {\k22}ha{\k28}na {\k46}wo {\k26}no{\k36}ko{\k12}shi{\k46}te
+Dialogue: 0,0:04:57.59,0:05:03.33,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k28}ko{\k24}to{\k26}ba {\k24}da{\k26}ke {\k24}wo {\k48}zut{\k22}to {\k52}mat{\k24}te{\k28}i{\k148}ru
+Dialogue: 0,0:05:05.59,0:05:11.94,Default,,0,0,0,,{\fad(200,200)}{\k100}{\k19}y{\k24}u{\k23}u{\k26}ya{\k28}ke {\k20}wo {\k46}jit{\k28}to {\k48}mat{\k24}te{\k28}i{\k221}ru
+Dialogue: 0,0:00:03.86,0:00:08.28,EN,,0,0,0,,{\fad(200,200)}Leaving aside goodbyes, let to carry a flower
+Dialogue: 0,0:00:08.58,0:00:12.49,EN,,0,0,0,,{\fad(200,200)}With uncertainty the dawn breaks
+Dialogue: 0,0:00:12.82,0:00:16.00,EN,,0,0,0,,{\fad(200,200)}I woke up in a room alone
+Dialogue: 0,0:00:16.22,0:00:20.03,EN,,0,0,0,,{\fad(200,200)}With that warmth as the only thing left
+Dialogue: 0,0:00:36.34,0:00:43.40,EN,,0,0,0,,{\fad(200,200)}Even though I don't remember a thing about last night
+Dialogue: 0,0:00:44.18,0:00:50.38,EN,,0,0,0,,{\fad(200,200)}Someone else was there, and I am confirming that thought
+Dialogue: 0,0:00:51.84,0:00:59.03,EN,,0,0,0,,{\fad(200,200)}I'm still hungover, and can't think straight
+Dialogue: 0,0:00:59.66,0:01:05.92,EN,,0,0,0,,{\fad(200,200)}Although I don't understand anything, well, what can I do? That also is beautiful
+Dialogue: 0,0:01:07.12,0:01:13.60,EN,,0,0,0,,{\fad(200,200)}A toothbrush on the wash stand, someone's drinking cup, a face lotion on the shelf
+Dialogue: 0,0:01:13.92,0:01:17.39,EN,,0,0,0,,{\fad(200,200)}Everything is just things I have no memories about
+Dialogue: 0,0:01:17.82,0:01:21.43,EN,,0,0,0,,{\fad(200,200)}The pillow smells of flowers
+Dialogue: 0,0:01:21.68,0:01:25.98,EN,,0,0,0,,{\fad(200,200)}Leaving aside goodbyes, let to carry a flower
+Dialogue: 0,0:01:26.38,0:01:30.18,EN,,0,0,0,,{\fad(200,200)}With uncertainty the dawn breaks
+Dialogue: 0,0:01:30.64,0:01:33.80,EN,,0,0,0,,{\fad(200,200)}I am waking up in a room alone
+Dialogue: 0,0:01:34.10,0:01:38.01,EN,,0,0,0,,{\fad(200,200)}With that warmth as the only thing left
+Dialogue: 0,0:01:54.43,0:02:01.49,EN,,0,0,0,,{\fad(200,200)}Even though I really don't remember last night that well
+Dialogue: 0,0:02:02.24,0:02:08.80,EN,,0,0,0,,{\fad(200,200)}I suspect I've been a subject to a badger game, but it doesn't feel like it
+Dialogue: 0,0:02:10.05,0:02:20.73,EN,,0,0,0,,{\fad(200,200)}Though I've been thinking about it with an already sober mind, it's fine if I don't know
+Dialogue: 0,0:02:20.91,0:02:24.12,EN,,0,0,0,,{\fad(200,200)}Or rather, thinking this way is fine
+Dialogue: 0,0:02:25.53,0:02:31.99,EN,,0,0,0,,{\fad(200,200)}Lavender blooming by the window, dirty sink, a knitted muffler
+Dialogue: 0,0:02:32.29,0:02:35.88,EN,,0,0,0,,{\fad(200,200)}Everything is just things I have no memories about
+Dialogue: 0,0:02:36.17,0:02:39.85,EN,,0,0,0,,{\fad(200,200)}The room smells of spring
+Dialogue: 0,0:02:40.09,0:02:44.44,EN,,0,0,0,,{\fad(200,200)}A flower badger game akin to grasping for drifting clouds
+Dialogue: 0,0:02:44.89,0:02:48.65,EN,,0,0,0,,{\fad(200,200)}With nobody coming, the sun sets
+Dialogue: 0,0:02:48.97,0:02:52.25,EN,,0,0,0,,{\fad(200,200)}Only the window tinged with setting sun
+Dialogue: 0,0:02:52.39,0:02:56.16,EN,,0,0,0,,{\fad(200,200)}Left me there knowing nothing
+Dialogue: 0,0:03:12.60,0:03:19.68,EN,,0,0,0,,{\fad(200,200)}I only remember a little of what actually happened last night
+Dialogue: 0,0:03:20.45,0:03:26.31,EN,,0,0,0,,{\fad(200,200)}Living without you, and that that will continue
+Dialogue: 0,0:03:28.25,0:03:35.21,EN,,0,0,0,,{\fad(200,200)}Even now I still only think about that one thing
+Dialogue: 0,0:03:35.99,0:03:42.12,EN,,0,0,0,,{\fad(200,200)}About you disappearing, giving me but a single flower
+Dialogue: 0,0:03:46.55,0:03:50.20,EN,,0,0,0,,{\fad(200,200)}You will surely return tomorrow
+Dialogue: 0,0:03:50.41,0:03:54.18,EN,,0,0,0,,{\fad(200,200)}Returning with an expression as if nothing happened
+Dialogue: 0,0:03:54.45,0:03:58.33,EN,,0,0,0,,{\fad(200,200)}Even now I hear the door opening
+Dialogue: 0,0:03:58.55,0:04:01.85,EN,,0,0,0,,{\fad(200,200)}Saying "Sorry, I'm late"
+Dialogue: 0,0:04:02.21,0:04:05.94,EN,,0,0,0,,{\fad(200,200)}I'm always waiting for nothing but words
+Dialogue: 0,0:04:06.17,0:04:10.54,EN,,0,0,0,,{\fad(200,200)}Patiently waiting for the evening glow of a sunset
+Dialogue: 0,0:04:18.21,0:04:22.63,EN,,0,0,0,,{\fad(200,200)}Before completely forgetting, picture the flowers in your mind
+Dialogue: 0,0:04:22.87,0:04:26.91,EN,,0,0,0,,{\fad(200,200)}Today as well, alone, the night comes
+Dialogue: 0,0:04:27.25,0:04:30.47,EN,,0,0,0,,{\fad(200,200)}By myself, I slumber in my room
+Dialogue: 0,0:04:30.73,0:04:34.39,EN,,0,0,0,,{\fad(200,200)}Left with that warmth for myself
+Dialogue: 0,0:04:34.39,0:04:38.40,EN,,0,0,0,,{\fad(200,200)}Foolishly, love is a given flower
+Dialogue: 0,0:04:38.55,0:04:42.44,EN,,0,0,0,,{\fad(200,200)}Even in this room spring will come again
+Dialogue: 0,0:04:42.75,0:04:46.22,EN,,0,0,0,,{\fad(200,200)}I'm living in a town without you
+Dialogue: 0,0:04:46.33,0:04:50.06,EN,,0,0,0,,{\fad(200,200)}Left with that warmth for myself
+Dialogue: 0,0:04:50.25,0:04:54.19,EN,,0,0,0,,{\fad(200,200)}Left with a flower for myself alone
+Dialogue: 0,0:04:58.59,0:05:03.33,EN,,0,0,0,,{\fad(200,200)}I'm always waiting for nothing but words
+Dialogue: 0,0:05:06.59,0:05:11.94,EN,,0,0,0,,{\fad(200,200)}Patiently waiting for the evening glow of a sunset
