@@ -17,9 +17,10 @@ Audio File: Love Live! Sunshine!! - OP LONG LIVE - Aozora Jumping Heart (VIDEO L
 Video File: Love Live! Sunshine!! - OP LONG LIVE - Aozora Jumping Heart (VIDEO LoveLive! Series Presents COUNTDOWN LoveLive! 2021→2022 ～LIVE with a smile!～).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 3
-Video Position: 630
+Video Zoom Percent: 0.625000
+Scroll Position: 38
+Active Line: 54
+Video Position: 8048
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -39,7 +40,7 @@ Style: EN - Aqours - R,Trebuchet MS,50,&H00FFFFFF,&H000000FF,&H00BC6429,&H00AD50
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.94,0:00:10.47,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k44}mi{\k46}ta {\k32}ko{\k58}to {\k38}na{\k10}i {\k42}yu{\k32}me {\k28}no {\k30}ki{\k158}dou {\k14}o{\k10}i{\k28}ka{\k16}ke{\k267}te
+Dialogue: 0,0:00:00.94,0:00:10.47,Aqours,,0,0,0,,{\k100}{\fad(200,200)}{\k44}mi{\k46}ta {\k32}ko{\k58}to {\k38}na{\k10}i {\k42}yu{\k32}me {\k28}no {\k30}ki{\k23}dou{\kf94}~{\k41} {\k14}o{\k10}i{\k28}ka{\k16}ke{\k53}te{\kf214}~
 Dialogue: 0,0:00:16.52,0:00:18.44,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k34}Shi{\k28}ning {\k30}Road
 Dialogue: 0,0:00:17.44,0:00:21.81,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k14}ha{\k48}shi{\k28}ri{\k28}da{\k32}su {\k32}ko{\k28}no {\k30}ki{\k18}mo{\k12}chi
 Dialogue: 0,0:00:21.02,0:00:26.98,Aqours,,0,0,0,,{\k100}{\fad(200,200)}{\k30}mas{\k32}su{\k18}gu {\k48}ni {\k10}i{\k24}ki{\k16}o{\k2}i {\k18}yo{\k44}ku {\k16}ki{\k24}mi {\k20}o {\k18}sa{\k40}ga{\k32}shi{\k46}te{\k16}ta {\k42}yo
@@ -50,50 +51,50 @@ Dialogue: 0,0:00:40.20,0:00:42.18,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k36}(mo
 Dialogue: 0,0:00:40.90,0:00:43.97,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k24}ka{\k28}ku{\k20}shi{\k30}te{\k28}ru {\k12}no
 Dialogue: 0,0:00:42.60,0:00:44.24,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k28}(Let'{\k10}s {\k70}go!)
 Dialogue: 0,0:00:43.24,0:00:50.39,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k33}ze{\k26}n{\k17}bu {\k28}a{\k32}ke{\k43}ta{\k33}i {\k180}yo {\k16}ho{\k41}ra {\k47}is{\k44}sho {\k30}ni {\k45}ne!
-Dialogue: 0,0:00:49.56,0:00:55.07,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k28}ha{\k30}ji{\k60}me{\k60}tai! {\k58}My {\k62}Sto{\k153}ry
-Dialogue: 0,0:00:53.00,0:00:57.81,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k76}(saa {\k56}i{\k59}ma {\k190}da)
+Dialogue: 0,0:00:49.56,0:00:55.07,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k28}ha{\k30}ji{\k60}me{\k60}tai! {\k58}My {\k62}Sto{\k30}ry{\kf120}~
+Dialogue: 0,0:00:53.00,0:00:57.81,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k76}(saa {\k56}i{\k59}ma {\k38}da{\kf152}~)
 Dialogue: 0,0:00:54.33,0:00:59.78,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k32}a{\k32}o{\k50}i {\k63}so{\k65}ra {\k59}ga {\k91}ma{\k18}tte{\k35}ru
 Dialogue: 0,0:00:59.00,0:01:03.12,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k16}yu{\k20}me {\k10}o {\k14}da{\k12}ki{\k48}shi{\k16}me{\k42}te {\k32}Jum{\k28}ping {\k74}Heart
 Dialogue: 0,0:01:02.14,0:01:09.49,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k32}so{\k16}re {\k28}da{\k30}ke {\k84}de {\k20}a{\k30}shi{\k38}ta {\k8}e {\k42}to {\k30}su{\k34}su{\k16}me{\k42}ru {\k28}sei{\k46}shun {\k30}mas{\k18}shi{\k14}gu{\k49}ra!?
-Dialogue: 0,0:01:08.77,0:01:14.12,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}ha{\k28}ji{\k60}mat{\k60}ta {\k60}to{\k60}ki {\k137}no
-Dialogue: 0,0:01:12.28,0:01:17.07,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k59}(Sun{\k36}shi{\k24}ne {\k69}Sto{\k191}ry)
+Dialogue: 0,0:01:08.77,0:01:14.12,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}ha{\k28}ji{\k60}mat{\k60}ta {\k60}to{\k60}ki {\k27}no{\kf108}~
+Dialogue: 0,0:01:12.28,0:01:17.07,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k59}(Sun{\k36}shi{\k24}ne {\k69}Sto{\k38}ry{\kf152}~)
 Dialogue: 0,0:01:13.45,0:01:19.05,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k42}to{\k29}ki{\k61}me{\k55}ki {\k61}zut{\k60}to {\k59}dai{\k34}ji {\k17}ni {\k42}ne
 Dialogue: 0,0:01:18.21,0:01:22.12,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k16}yu{\k20}me {\k2}o {\k22}tsu{\k14}ka{\k54}ma{\k10}e {\k42}ni {\k30}yu{\k30}ku {\k12}yo
-Dialogue: 0,0:01:21.35,0:01:31.71,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}don{\k18}na {\k28}ko{\k30}to {\k84}ga {\k22}o{\k30}ko{\k30}ru {\k14}no {\k30}ka {\k30}wa{\k44}ka{\k32}ra{\k30}nai {\k28}no {\k150}mo {\k16}ta{\k14}no{\k30}shi{\k16}mi {\k230}sa
+Dialogue: 0,0:01:21.35,0:01:31.71,Aqours,,0,0,0,,{\k100}{\fad(200,200)}{\k30}don{\k18}na {\k28}ko{\k30}to {\k84}ga {\k22}o{\k30}ko{\k30}ru {\k14}no {\k30}ka {\k30}wa{\k44}ka{\k32}ra{\k30}nai {\k28}no {\k19}mo{\kf105}~{\k26} {\k16}ta{\k14}no{\k30}shi{\k16}mi {\k46}sa{\kf184}~
 Dialogue: 0,0:01:38.25,0:01:40.07,ChikaTakami,,0,0,0,,{\fad(200,200)}{\k100}{\k20}O{\k32}pen {\k30}Mind
-Dialogue: 0,0:01:39.07,0:01:43.47,ChikaTakami,,0,0,0,,{\fad(200,200)}{\k100}{\k14}tsu{\k54}ta{\k20}e{\k32}na{\k22}kya {\k38}tsu{\k30}ta{\k32}wa{\k14}ra{\k84}nai
+Dialogue: 0,0:01:39.07,0:01:43.47,ChikaTakami,,0,0,0,,{\fad(200,200)}{\k100}{\k14}tsu{\k54}ta{\k20}e{\k32}na{\k22}kya {\k38}tsu{\k30}ta{\k32}wa{\k14}ra{\k16}nai{\kf64}~
 Dialogue: 0,0:01:42.65,0:01:48.60,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k18}sa{\k12}i{\k32}sho {\k16}ka{\k44}ra {\k30}kan{\k28}pe{\k18}ki {\k42}ni {\k16\rYouWatanabe}de{\k18}ki{\k28}ru {\k16}ha{\k44}zu {\k28}wa {\k46}nai {\k16}ka{\k43}ra
 Dialogue: 0,0:01:47.75,0:01:52.60,RubyKurosawa,,0,0,0,,{\fad(200,200)}{\k100}{\k32}to{\k38}ri{\k12}a{\k8}e{\k18}zu {\k52}ge{\k18}n{\k32}ki {\k30}ni {\k32\rAqours}to{\k16}bi{\k26}da{\k33}so{\k38}u
-Dialogue: 0,0:01:51.81,0:01:57.24,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k16}bo{\k14}ku{\k14}ta{\k16}chi {\k14}no {\k32}star{\k14}t {\k74}line {\k34}goa{\k14}l {\k42}wa {\k31}too{\k29}i {\k16}ka{\k83}na
+Dialogue: 0,0:01:51.81,0:01:57.24,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k16}bo{\k14}ku{\k14}ta{\k16}chi {\k14}no {\k32}star{\k14}t {\k74}line {\k34}goa{\k14}l {\k42}wa {\k31}too{\k29}i {\k16}ka{\k16}na{\kf64}~
 Dialogue: 0,0:01:56.45,0:02:03.27,KananMatsuura,,0,0,0,,{\fad(200,200)}{\k100}{\k30}ma{\k30}bu{\k40}shi{\k22}i {\k16}se{\k50}ka{\k10}i {\k76}de {\k28}yo{\k28}bu {\k40}ko{\k8}e {\k44}ga {\k30}ki{\k44}ko{\k16}e{\k70}ta
 Dialogue: 0,0:02:01.77,0:02:03.47,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k36}(mot{\k34}to)
-Dialogue: 0,0:02:02.47,0:02:05.48,DiaKurosawa,,0,0,0,,{\fad(200,200)}{\k100}{\k26}kii{\k28}te {\k16}mi{\k30}ta{\k30}ku{\k71}te
+Dialogue: 0,0:02:02.47,0:02:05.48,DiaKurosawa,,0,0,0,,{\fad(200,200)}{\k100}{\k26}kii{\k28}te {\k16}mi{\k30}ta{\k30}ku{\k14}te{\kf56}~
 Dialogue: 0,0:02:04.24,0:02:05.89,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k22}(Le{\k13}t's {\k30}go!)
-Dialogue: 0,0:02:04.89,0:02:11.94,HanamaruKunikida,,0,0,0,,{\fad(200,200)}{\k100}{\k28}hi{\k24}ka{\k20}ri {\k30}no {\k30}mu{\k43}ko{\k31}u {\k182}e {\k16\rAqours}ho{\k42}ra {\k36}is{\k54}sho {\k28}ni {\k41}ne!
-Dialogue: 0,0:02:11.15,0:02:16.97,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k31}ka{\k29}e{\k50}ta{\k10}i {\k60}na! {\k58}My {\k56}Fu{\k188}ture
-Dialogue: 0,0:02:14.67,0:02:19.32,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k67}(saa {\k58}do{\k61}ko {\k179}e)
-Dialogue: 0,0:02:15.97,0:02:21.41,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k29}ta{\k28}i{\k58}you {\k61}ga {\k63}no{\k59}bo{\k89}ru {\k20}you {\k37}ni
+Dialogue: 0,0:02:04.89,0:02:11.94,HanamaruKunikida,,0,0,0,,{\k100}{\fad(200,200)}{\k28}hi{\k24}ka{\k20}ri {\k30}no {\k30}mu{\k43}ko{\k31}u {\k31}e{\kf129}~{\k22} {\k16}{\rAqours}ho{\k42}ra {\k36}is{\k54}sho {\k28}ni {\k41}ne!
+Dialogue: 0,0:02:11.15,0:02:16.97,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k31}ka{\k29}e{\k50}ta{\k10}i {\k60}na! {\k58}My {\k56}Fu{\k37}ture{\kf148}~
+Dialogue: 0,0:02:14.67,0:02:19.32,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k67}(saa {\k58}do{\k61}ko {\k35}e{\kf140}~)
+Dialogue: 0,0:02:15.97,0:02:21.41,Aqours,,0,0,0,,{\k100}{\fad(200,200)}{\k29}ta{\k28}i{\k58}you {\k61}ga {\k63}no{\k59}bo{\k19}ru{\kf70}~{\kf0} {\k20}you {\k37}ni
 Dialogue: 0,0:02:20.61,0:02:24.71,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k16}yu{\k16}me {\k14}yo {\k14}ka{\k16}ga{\k50}ya{\k8}i{\k44}te {\k32}Char{\k30}ging {\k43}Hear{\k27}t
 Dialogue: 0,0:02:23.75,0:02:31.03,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}chi{\k18}ka{\k25}ra {\k31}ip{\k76}pai {\k30}ka{\k28}na{\k32}e{\k16}yo{\k44}u {\k30}ne{\k31}ga{\k15}i {\k44}o {\k28}sei{\k48}shun {\k29}pik{\k19}ka{\k14}ri {\k40}da!?
-Dialogue: 0,0:02:30.35,0:02:36.09,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}ka{\k30}e{\k60}tai {\k72}to {\k48}o{\k59}mo{\k175}u
-Dialogue: 0,0:02:33.84,0:02:38.70,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k64}(Sun{\k65}shine {\k59}Mis{\k198}sion)
+Dialogue: 0,0:02:30.35,0:02:36.09,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}ka{\k30}e{\k60}tai {\k72}to {\k48}o{\k59}mo{\k35}u{\kf140}~
+Dialogue: 0,0:02:33.84,0:02:38.70,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k64}(Sun{\k65}shine {\k59}Mis{\k39}sion{\kf156}~)
 Dialogue: 0,0:02:35.15,0:02:40.62,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}ki{\k30}mo{\k60}chi {\k64}ga {\k58}kit{\k58}to {\k32}da{\k28}i{\k32}ji {\k16}da {\k39}yo
-Dialogue: 0,0:02:39.81,0:02:43.61,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k18}yu{\k18}me {\k2}o {\k22}tsu{\k14}ka{\k54}ma{\k10}e {\k44}ni {\k28}yu{\k30}ku {\k40}yo
-Dialogue: 0,0:02:42.93,0:02:53.24,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k32}min{\k16}na {\k28}to {\k30}na{\k76}ra {\k26}se{\k34}tsu{\k32}me{\k16}i {\k30}wa {\k26}de{\k46}ki{\k30}na{\k32}i {\k30}ke{\k148}do {\k20}da{\k10}i{\k30}jou{\k16}bu {\k223}sa
+Dialogue: 0,0:02:39.81,0:02:43.61,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k18}yu{\k18}me {\k2}o {\k22}tsu{\k14}ka{\k54}ma{\k10}e {\k44}ni {\k28}yu{\k30}ku {\k8}yo{\kf32}~
+Dialogue: 0,0:02:42.93,0:02:53.24,Aqours,,0,0,0,,{\k100}{\fad(200,200)}{\k32}min{\k16}na {\k28}to {\k30}na{\k14}ra{\kf37}~{\k25} {\k26}se{\k34}tsu{\k32}me{\k16}i {\k30}wa {\k26}de{\k46}ki{\k30}na{\k32}i {\k30}ke{\k18}do{\kf93}~{\k37} {\k20}da{\k10}i{\k30}jou{\k16}bu {\k44}sa{\kf179}~
 Dialogue: 0,0:03:08.45,0:03:14.40,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}Jum{\k32}pin{\k16}g {\k44}Heart {\k30\rRikoSakurauchi}da{\k6}t{\k40}te {\k42}ha{\k32}ji{\k30}me{\k40}ta{\k50}i {\k30}ko{\k16}to {\k57}ga
-Dialogue: 0,0:03:13.21,0:03:19.19,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k32}Char{\k33}gin{\k17}g {\k44}Heart {\k25\rYoshikoTsushima}i{\k49}ma {\k43}mi{\k33}tsu{\k30}ka{\k28}t{\k61}ta {\k26}bak{\k21}ka{\k56}ri
+Dialogue: 0,0:03:13.21,0:03:19.19,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k32}Char{\k33}gin{\k17}g {\k44}Heart {\k25\rYoshikoTsushima}i{\k49}ma {\k43}mi{\k33}tsu{\k30}ka{\k28}t{\k61}ta {\k26}bak{\k21}ka{\k11}ri{\kf44}~
 Dialogue: 0,0:03:18.37,0:03:23.91,MariOhara,,0,0,0,,{\fad(200,200)}{\k100}{\k30}Goa{\k30}l {\k30}wa {\k16}do{\k42}ko? {\k30\rRikoSakurauchi}do{\k32}ko {\k14}da{\k74}rou? {\k60\rMariOhara}wa{\k34}ka{\k16}ra{\k46}nai!
-Dialogue: 0,0:03:23.17,0:03:29.36,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}wa{\k28}ka{\k18}ra{\k22}na{\k8}i {\k28}de{\k30}mo {\k46}ne {\k30}ta{\k28}no{\k30}shi {\k90}sou {\k20}da {\k111}yo
-Dialogue: 0,0:03:31.54,0:03:41.82,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k34}ha{\k30}ji{\k58}me{\k60}tai! {\k50}My {\k68}Sto{\k178}ry {\k35}a{\k27}o{\k60}i {\k60}so{\k62}ra {\k60}ga {\k86}mat{\k24}te{\k36}ru
+Dialogue: 0,0:03:23.17,0:03:29.36,Aqours,,0,0,0,,{\k100}{\fad(200,200)}{\k30}wa{\k28}ka{\k18}ra{\k22}na{\k8}i {\k28}de{\k30}mo {\k46}ne {\k30}ta{\k28}no{\k30}shi {\k16}sou{\kf74}~ {\k20}da {\k22}yo{\kf89}~
+Dialogue: 0,0:03:31.54,0:03:41.82,Aqours,,0,0,0,,{\k100}{\fad(200,200)}{\k34}ha{\k30}ji{\k58}me{\k60}tai! {\k50}My {\k68}Sto{\k19}ry{\kf114}~{\k45} {\k35}a{\k27}o{\k60}i {\k60}so{\k62}ra {\k60}ga {\k86}mat{\k24}te{\k36}ru
 Dialogue: 0,0:03:41.02,0:03:44.98,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k14}yu{\k18}me {\k14}o {\k14}da{\k14}ki{\k44}shi{\k18}me{\k42}te {\k32}Jum{\k25}ping {\k61}Heart
 Dialogue: 0,0:03:44.16,0:03:51.58,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k32}so{\k16}re {\k28}da{\k30}ke {\k82}de {\k22}a{\k30}shi{\k38}ta {\k8}e {\k42}to {\k32}su{\k32}su{\k16}me{\k42}ru {\k28}sei{\k46}shun {\k30}mas{\k20}shi{\k14}gu{\k54}ra!?
-Dialogue: 0,0:03:50.76,0:03:56.09,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}ha{\k30}ji{\k60}mat{\k60}ta {\k62}to{\k58}ki {\k133}no
-Dialogue: 0,0:03:54.23,0:03:58.95,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k64}(Sun{\k59}shine {\k71}Sto{\k178}ry)
+Dialogue: 0,0:03:50.76,0:03:56.09,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}ha{\k30}ji{\k60}mat{\k60}ta {\k62}to{\k58}ki {\k16}no{\kf112}~
+Dialogue: 0,0:03:54.23,0:03:58.95,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k64}(Sun{\k59}shine {\k71}Sto{\k22}ry{\kf154}~)
 Dialogue: 0,0:03:55.50,0:04:01.07,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k34}to{\k33}ki{\k57}me{\k58}ki {\k64}zut{\k56}to {\k36}da{\k22}i{\k35}ji {\k17}ni {\k45}ne
 Dialogue: 0,0:04:00.24,0:04:04.07,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k14}yu{\k14}me {\k13}o {\k17}tsu{\k14}ka{\k41}ma{\k21}e {\k46}ni {\k30}yu{\k28}ku {\k45}yo
-Dialogue: 0,0:04:03.36,0:04:10.26,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}don{\k18}na {\k28}ko{\k30}to {\k84}ga {\k22}o{\k28}ko{\k30}ru {\k16}no {\k30}ka {\k30}wa{\k46}ka{\k30}ra{\k26}na{\k30}i {\k34}mi{\k11}ra{\k67}i
+Dialogue: 0,0:04:03.36,0:04:10.26,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}don{\k18}na {\k28}ko{\k30}to {\k84}ga {\k22}o{\k28}ko{\k30}ru {\k16}no {\k30}ka {\k30}wa{\k46}ka{\k30}ra{\k26}na{\k30}i {\k34}mi{\k11}ra{\k8}i{\kf56}~
 Dialogue: 0,0:04:09.82,0:04:13.67,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k16}yu{\k14}me {\k15}o {\k15}tsu{\k16}ka{\k39}ma{\k23}e {\k42}ni {\k30}yu{\k30}ku {\k45}yo
-Dialogue: 0,0:04:12.96,0:04:28.55,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}min{\k18}na {\k26}to {\k32}na{\k74}ra {\k30}se{\k30}tsu{\k29}me{\k19}i {\k30}wa {\k26}de{\k46}ki{\k32}na{\k30}i {\k30}ke{\k148}do {\k30}dai{\k30}jou{\k16}bu {\k21}sa{\kf243}…{\k140} {\k28}mas{\k34}shi{\k14}gu{\k273}ra!
+Dialogue: 0,0:04:12.96,0:04:28.55,Aqours,,0,0,0,,{\k100}{\fad(200,200)}{\k30}min{\k18}na {\k26}to {\k32}na{\k74}ra {\k30}se{\k30}tsu{\k29}me{\k19}i {\k30}wa {\k26}de{\k46}ki{\k32}na{\k30}i {\k30}ke{\k19}do{\kf98}~{\k31} {\k30}dai{\k30}jou{\k16}bu {\k21}sa{\kf243}…{\k140} {\k28}mas{\k34}shi{\k14}gu{\k34}ra{\kf239}~!
 Dialogue: 0,0:00:01.94,0:00:10.47,EN - Aqours,,0,0,0,,{\fad(200,200)}Let's chase the orbit of unseen dreams!
 Dialogue: 0,0:00:17.52,0:00:18.44,EN - Aqours,,0,0,0,,{\fad(200,200)}Shining Road
 Dialogue: 0,0:00:18.44,0:00:21.81,EN - Aqours,,0,0,0,,{\fad(200,200)}My feelings run
