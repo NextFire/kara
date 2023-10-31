@@ -18,8 +18,8 @@ Video File: Love Live! Sunshine!! - OP LONG LIVE - Aozora Jumping Heart (VIDEO L
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 109
-Video Position: 7612
+Active Line: 3
+Video Position: 630
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,7 +42,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.94,0:00:10.47,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k44}mi{\k46}ta {\k32}ko{\k58}to {\k38}na{\k10}i {\k42}yu{\k32}me {\k28}no {\k30}ki{\k158}dou {\k14}o{\k10}i{\k28}ka{\k16}ke{\k267}te
 Dialogue: 0,0:00:16.52,0:00:18.44,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k34}Shi{\k28}ning {\k30}Road
 Dialogue: 0,0:00:17.44,0:00:21.81,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k14}ha{\k48}shi{\k28}ri{\k28}da{\k32}su {\k32}ko{\k28}no {\k30}ki{\k18}mo{\k12}chi
-Dialogue: 0,0:00:21.02,0:00:26.98,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k20}ma{\k10}s{\k32}su{\k18}gu {\k48}ni {\k10}i{\k24}ki{\k16}o{\k2}i {\k18}yo{\k44}ku {\k16}ki{\k24}mi {\k20}o {\k18}sa{\k40}ga{\k32}shi{\k46}te{\k16}ta {\k10}yo
+Dialogue: 0,0:00:21.02,0:00:26.98,Aqours,,0,0,0,,{\k100}{\fad(200,200)}{\k30}mas{\k32}su{\k18}gu {\k48}ni {\k10}i{\k24}ki{\k16}o{\k2}i {\k18}yo{\k44}ku {\k16}ki{\k24}mi {\k20}o {\k18}sa{\k40}ga{\k32}shi{\k46}te{\k16}ta {\k42}yo
 Dialogue: 0,0:00:26.14,0:00:31.04,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}chot{\k28}to {\k30}mat{\k18}te {\k36}na{\k8}n{\k30}te {\k32}mu{\k28}ri {\k32}to{\k16}bi{\k26}da{\k32}so{\k44}u
 Dialogue: 0,0:00:30.20,0:00:35.57,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k16}bo{\k14}ku{\k14}ta{\k16}chi {\k16}no {\k28}na{\k18}ka {\k72}no {\k30}yuu{\k18}ki {\k40}ga {\k30}sa{\k28}wa{\k6}i{\k18}de{\k73}ru
 Dialogue: 0,0:00:34.94,0:00:41.56,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k20}i{\k30}tsu{\k30}mo {\k30}no {\k18}se{\k52}ka{\k8}i {\k82}ga {\k20}a{\k10}ta{\k52}ra{\k26}shi{\k32}i {\k32}to{\k44}bi{\k19}ra {\k57}o
@@ -69,7 +69,7 @@ Dialogue: 0,0:01:56.45,0:02:03.27,KananMatsuura,,0,0,0,,{\fad(200,200)}{\k100}{\
 Dialogue: 0,0:02:01.77,0:02:03.47,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k36}(mot{\k34}to)
 Dialogue: 0,0:02:02.47,0:02:05.48,DiaKurosawa,,0,0,0,,{\fad(200,200)}{\k100}{\k26}kii{\k28}te {\k16}mi{\k30}ta{\k30}ku{\k71}te
 Dialogue: 0,0:02:04.24,0:02:05.89,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k22}(Le{\k13}t's {\k30}go!)
-Dialogue: 0,0:02:04.89,0:02:11.94,MariOhara,,0,0,0,,{\fad(200,200)}{\k100}{\k28}hi{\k24}ka{\k20}ri {\k30}no {\k30}mu{\k43}ko{\k31}u {\k182}e {\k16\rAqours}ho{\k42}ra {\k36}is{\k54}sho {\k28}ni {\k41}ne!
+Dialogue: 0,0:02:04.89,0:02:11.94,HanamaruKunikida,,0,0,0,,{\fad(200,200)}{\k100}{\k28}hi{\k24}ka{\k20}ri {\k30}no {\k30}mu{\k43}ko{\k31}u {\k182}e {\k16\rAqours}ho{\k42}ra {\k36}is{\k54}sho {\k28}ni {\k41}ne!
 Dialogue: 0,0:02:11.15,0:02:16.97,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k31}ka{\k29}e{\k50}ta{\k10}i {\k60}na! {\k58}My {\k56}Fu{\k188}ture
 Dialogue: 0,0:02:14.67,0:02:19.32,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k67}(saa {\k58}do{\k61}ko {\k179}e)
 Dialogue: 0,0:02:15.97,0:02:21.41,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k29}ta{\k28}i{\k58}you {\k61}ga {\k63}no{\k59}bo{\k89}ru {\k20}you {\k37}ni
@@ -82,7 +82,7 @@ Dialogue: 0,0:02:39.81,0:02:43.61,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k18}yu{
 Dialogue: 0,0:02:42.93,0:02:53.24,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k32}min{\k16}na {\k28}to {\k30}na{\k76}ra {\k26}se{\k34}tsu{\k32}me{\k16}i {\k30}wa {\k26}de{\k46}ki{\k30}na{\k32}i {\k30}ke{\k148}do {\k20}da{\k10}i{\k30}jou{\k16}bu {\k223}sa
 Dialogue: 0,0:03:08.45,0:03:14.40,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}Jum{\k32}pin{\k16}g {\k44}Heart {\k30\rRikoSakurauchi}da{\k6}t{\k40}te {\k42}ha{\k32}ji{\k30}me{\k40}ta{\k50}i {\k30}ko{\k16}to {\k57}ga
 Dialogue: 0,0:03:13.21,0:03:19.19,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k32}Char{\k33}gin{\k17}g {\k44}Heart {\k25\rYoshikoTsushima}i{\k49}ma {\k43}mi{\k33}tsu{\k30}ka{\k28}t{\k61}ta {\k26}bak{\k21}ka{\k56}ri
-Dialogue: 0,0:03:18.37,0:03:23.91,MariOhara,,0,0,0,,{\fad(200,200)}{\k100}{\k30}Goa{\k30}l {\k30}wa {\k16}do{\k42}ko? {\k30\rAqours}do{\k32}ko {\k14}da{\k74}rou? {\k60\rMariOhara}wa{\k34}ka{\k16}ra{\k46}nai!
+Dialogue: 0,0:03:18.37,0:03:23.91,MariOhara,,0,0,0,,{\fad(200,200)}{\k100}{\k30}Goa{\k30}l {\k30}wa {\k16}do{\k42}ko? {\k30\rRikoSakurauchi}do{\k32}ko {\k14}da{\k74}rou? {\k60\rMariOhara}wa{\k34}ka{\k16}ra{\k46}nai!
 Dialogue: 0,0:03:23.17,0:03:29.36,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k30}wa{\k28}ka{\k18}ra{\k22}na{\k8}i {\k28}de{\k30}mo {\k46}ne {\k30}ta{\k28}no{\k30}shi {\k90}sou {\k20}da {\k111}yo
 Dialogue: 0,0:03:31.54,0:03:41.82,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k34}ha{\k30}ji{\k58}me{\k60}tai! {\k50}My {\k68}Sto{\k178}ry {\k35}a{\k27}o{\k60}i {\k60}so{\k62}ra {\k60}ga {\k86}mat{\k24}te{\k36}ru
 Dialogue: 0,0:03:41.02,0:03:44.98,Aqours,,0,0,0,,{\fad(200,200)}{\k100}{\k14}yu{\k18}me {\k14}o {\k14}da{\k14}ki{\k44}shi{\k18}me{\k42}te {\k32}Jum{\k25}ping {\k61}Heart
