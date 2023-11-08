@@ -3,13 +3,12 @@
 ; http://www.aegisub.org/
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-Original Timing: yohane 0.1.0.dev0-34fdee8 (https://github.com/Japan7/yohane)
+Original Timing: NextFire, yohane 0.1.0.dev0-34fdee8 (https://github.com/Japan7/yohane)
 ScriptType: v4.00+
 YCbCr Matrix: TV.601
 PlayResX: 640
 PlayResY: 480
 Title: Yuppi - PV - Melonpan no Uta
-Script Updated By: NextFire
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
